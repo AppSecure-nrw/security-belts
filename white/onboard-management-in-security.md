@@ -9,5 +9,5 @@ Software vulnerabilities when shipped into production might be exploited which r
 
 - Product Owner is not aware that software can have security vulnerabilities.
 - No resources are allocated to improve in security to avoid, detect and fix security vulnerabilities.
-- Management can not perform well informed decision when judging "risks vs. revenue".
+- Management cannot perform well informed decision when judging "risks vs. revenue".
 - Product Owner has no transparency on how secure the product is.
