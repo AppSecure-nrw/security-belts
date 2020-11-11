@@ -1,4 +1,4 @@
-# Utilize Paring
+# Utilize Pairing
 
 When implementing a security belt activity, approach a peer from the security champion guild to get you started.
 
