@@ -7,6 +7,6 @@ The white belt - with its activities - shall lay the organizational basis to suc
 ## Activities
 - [Onboard Management in Security](onboard-management-in-security.md)
 - [Get to Know Security Policies](get-to-know-security-policies.md)
-- [Utilize Paring](utilize-paring.md)
+- [Utilize Pairing](utilize-pairing.md)
 - [Continuously Improve your Security Belt](continuous-security-improvement.md)
 - [Review Security Belt Activities](review-security-belt-activities.md)
