@@ -1,5 +1,6 @@
 # Utilize Pairing
 > "Pairing" known from Pair Programming
+
 When implementing a security belt activity, approach a peer from the security champion guild to get you started.
 
 ## Risk
