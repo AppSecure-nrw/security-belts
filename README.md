@@ -6,8 +6,9 @@ The Security Belts model is a maturity model and thus pursues the idea of provid
 The model shall convey values that are based on [The Five Ideals Of DevOps](https://itrevolution.com/five-ideals-of-devops/), which we believe are essential to successfully deliver secure software. In the model, the individual degrees of maturity are represented as belts, which are known from various martial arts such as judo.
 
 Every activity in this model that is supposed to improve software security is sorted into one of the belts according to its benefit / cost ratio. Activities in the lower belts are not so expensive in terms of time and skill requirements and probably bring the most benefits for software security. The higher the belt, the more demanding the activities and their benefits are less generally applicable.
-
-Furthermore, we have taken care to adhere to specially drawn up rules when defining the belts, which we consider useful. The first rule: you do not talk about .... nope, it is: each Security Belt introduces at least one new tool or technical feature. The second rule: each Security Belt improves transparency to help the team to better understand and communicate to their stakeholders how well it ensures software security.
+Furthermore, each belt follows the following rules, which we consider useful.
+1. You do not talk about .... nope, it is: Each Security Belt introduces at least one new tool or technical feature.
+2. Each Security Belt improves transparency to help the team to better understand and communicate to their stakeholders how well it ensures software security.
 
 
 
