@@ -1,9 +1,11 @@
 # Review Security Belt Activities
 
-Whenever implementing a security belt activity within a team, the implementation shall be reviewed through the security champion guild. Do this as soon as possible to eradicate misunderstandings of security belt activity descriptions early.
+Let the security champion guild review your implementations (or ideas) of security belt activities as soon as possible. This helps to eradicate misunderstandings of security belt activities early.
 
-## Risk
+## Benefits
 
-- The quality of the implementation is not transparent.
-- Successes are not intermediately celebrated.
-- Only late feedback on the belt assessment.
+- The quality of the implementation is increased.
+- Successes can be celebrated intermediately.
+- Early feedback on the belt assessment.
+
+## Further Readings

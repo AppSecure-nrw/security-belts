@@ -1,4 +1,4 @@
-# Same artifact for environments
+# Same Artifact for Environments
 
 An artifact is build once and deployed for testing, as well as production purpose. This ensures your artifact in production is the one you tested. Do not use environment names to configure your artifact.
 

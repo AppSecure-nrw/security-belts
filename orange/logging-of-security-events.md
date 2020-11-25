@@ -1,4 +1,4 @@
-# Logging of security events
+# Logging of Security Events
 
 Security relevant events are logged. The following events tend to be security relevant:
 - successful/failed login/logout
