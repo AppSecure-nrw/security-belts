@@ -5,11 +5,11 @@ Software vulnerabilities might be exploited when shipped into production. This r
 - Raise the awareness of these persons (e.g., show how easy it is to exploit software).
 - Convince these persons that security is a continuous effort and that Security Belts are a cost efficient solution.
 
-## Risk
+## Benefits
 
-- Product Owner is not aware that software can have security vulnerabilities.
-- No resources are allocated to improve in security to avoid, detect and fix security vulnerabilities.
-- Management cannot perform well informed decision when judging "risks vs. revenue".
-- Product Owner has no transparency on how secure the product is.
+- The Product Owner is aware that software can have security vulnerabilities.
+- Resources are allocated to improve in security - to avoid, detect and fix security vulnerabilities.
+- Management can perform well informed decision when judging "risks vs. revenue".
+- The Product Owner has transparency on how secure the product is.
 
 ## Further Readings
