@@ -6,6 +6,6 @@ Let the security champion guild review your implementations (or ideas) of securi
 
 - The quality of the implementation is increased.
 - Successes can be celebrated intermediately.
-- Early feedback on the belt assessment.
+- Early feedback before the belt assessment.
 
 ## Further Readings
