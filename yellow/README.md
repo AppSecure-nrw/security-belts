@@ -1,5 +1,5 @@
 # 2 - Yellow Belt
-The yellow belt is the first belt that uses automatically performed activities and as such give the team a constant feedback on the current state of the developed software. It is recommended that every team achieves this belt.
+The yellow belt is the first belt that uses automatically performed activities and as such give the team continuous high-level feedback on the current state of the developed software. It is recommended that every team achieves this belt.
 
 - [Continuous Integration](continuous-integration.md)
 - [Security Code Review](security-code-review.md)
