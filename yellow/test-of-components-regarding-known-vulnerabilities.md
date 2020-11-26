@@ -15,8 +15,8 @@ Perform tests for known vulnerabilities in all software components used by your 
 - Show your false positive list.
 
 ## Related Belt Activities
- - Update Enforcement
- - Test of Containers Regarding Known Vulnerabilities
+ - Container Update Enforcement (in development)
+ - Test of Containers Regarding Known Vulnerabilities (in development)
  
 
  ## Further Readings

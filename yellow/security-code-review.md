@@ -7,7 +7,7 @@ Perform code reviews of security-related software and infrastructure with securi
   - Authentication, authorization
   - Session management
   - Request throttling
-  - :unicorn: (self-developed code, only used in this software)
+  - :unicorn: (self-developed code, only used in that one software)
 
 ## Benefits
 

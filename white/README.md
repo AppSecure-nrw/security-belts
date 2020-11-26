@@ -9,6 +9,6 @@ The white belt - with its activities - shall lay the organizational basis for th
 ## Activities
 - [Onboard Management in Security](onboard-management-in-security.md)
 - [Get to Know Your Security Policies](get-to-know-your-security-policies.md)
-- [Make Use of the Security Champion Guild](make-use-of-the-security-champion-guild.md)
+- [Don't Start Alone](do-not-start-alone.md)
 - [Continuously Improve your Security Belt Rank](continuously-improve-your-security-belt-rank.md)
 - [Review Security Belt Activities](review-security-belt-activities.md)

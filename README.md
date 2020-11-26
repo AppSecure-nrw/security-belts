@@ -4,16 +4,14 @@
 
 TODO
 
-## Prerequisite Belts
-Before any team can achieve a specific belt, the Security Champion Guild needs to lay the prerequisites for the teams accordingly. As introducing the necessary prerequisites is necessary before a team can achieve a belt, the prerequisites for the Security Champion Guild is structured accordingly.
+## Prerequisites
+Before any team can achieve a specific belt, the Security Champion Guild needs to lay the prerequisites for the teams accordingly. 
 
-- [1 - Pre White Belt](pre-white/README.md)
-- [2 - Pre Yellow Belt](pre-yellow/README.md)
-- [3 - Pre Orange Belt](pre-orange/README.md)
+- [Prerequisites](prerequisites/README.md)
 
 
 ## Belts
-Working on the belts is a continuous effort. Start with the first belt, the white belt, and keep working on them, till you achieve the ultimate belt, the black belt. Activities of later belts often times relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
+Working on the belts is a continuous effort. Start with the first belt, the white belt, and keep working on them, till you achieve the desired belt for your team. Activities of later belts often times relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
 
 - [1 - White Belt](white/README.md)
 - [2 - Yellow Belt](yellow/README.md)

@@ -13,6 +13,6 @@ Define quality gates adhering to your companies policy, make sure that all requi
 - Show the usage of the gates.
 - Show the treatment of rejected cases.
 - Show your current exposure.
-- How are false positives handled?
+- Show how you handle false positives.
 
 ## Further Readings

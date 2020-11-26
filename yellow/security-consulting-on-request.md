@@ -1,6 +1,6 @@
 # Security Consulting on Request
 
-Actively consult the security champion guild if your own knowledge is insufficient to solve security problems. 
+Actively consult the Security Champion Guild if your own knowledge is insufficient to solve security problems. 
 
 ## Benefits
 

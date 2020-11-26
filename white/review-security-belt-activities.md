@@ -1,6 +1,6 @@
 # Review Security Belt Activities
 
-Let the security champion guild review your implementations (or ideas) of security belt activities as soon as possible. This helps to eradicate misunderstandings of security belt activities early.
+Let the Security Champion Guild review your implementations of security belt activities (or concepts of these implementations) as soon as possible. This helps to eradicate misunderstandings of security belt activities early.
 
 ## Benefits
 
