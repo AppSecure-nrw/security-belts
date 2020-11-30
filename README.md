@@ -25,10 +25,24 @@ The Security Champion Guild is a guild as known from the [Spotify model](https:/
 The main task of the guild is to spread the Security Belts model in the organization. The guild conducts belt exams and actively improves the model.
 
 All Security Champions and only these are part of the guild otherwise champions are not learning from each other as well as the quality of outcome is reduced.
+
 ## Rituals
-### Weekly/Review
+
+### Weekly Review
+
+The Security Champion Guild organizes a review on a weekly basis with one representative of each team working on achieving a Security Belt. The representative does not have to be a Security Champion.
+
+The weekly is set up like a daily standup in Scrum, where everyone presents the progress of their implementation of the Security Belt activity their currently working on.
+
+This meeting gives teams the opportunity to get early feedback and to give the Security Champion Guild transparency about the progress the teams are making with their Security Belts.
+
 ### Belt Exam
+
+TODO
+
 ### Yearly Refresh
+
+TODO
 
 ## Belts
 
