@@ -48,7 +48,14 @@ If the exam is passed, the belt is awarded to the team by the examiners. Do not 
 
 ### Yearly Refresh
 
-TODO
+Responsibility for security within a team requires self-improvement and trust, which both can be earned with the Security Belts. But over time teams are changing. Members are exchanged and the priority of the work varies. To continue to trust a team, it makes sense to regularly check whether the team is still actively applying the activities of a Security Belt.
+
+The Security Champion Guild performs a refresh meeting on a yearly basis for each team which achieved a Security Belt. At least two members of a team are invited together with two Security Champions which also achieved the belt to be tested. If there are no suitable candidates, proceed like with the examiners for the belt exam.
+
+In the refresh meeting, all belt activities - from all by the team achieved Security Belts - are tested wether the team is still applying it.
+- If all activities are still performed, celebrate this with the team and the guild.
+- If some activities are no more performed, the team has to revive the activity and prove it.
+- If most of the activities are not performed anymore, the team looses the corresponding Security Belts and must take and pass the exam again.
 
 ## Belts
 
