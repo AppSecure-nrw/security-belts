@@ -38,7 +38,13 @@ This meeting gives teams the opportunity to get early feedback and to give the S
 
 ### Belt Exam
 
-TODO
+The team has to pass a belt exam in order to obtain a Security Belt. Since the Security Belts are intended to empower a team, the whole team - not only the Security Champion - has to attend to the exam.
+
+The belt exam can be requested by the Security Champion Guild. The guild then organizes some examiners. These should be Security Champions which already achieved the Security Belt that the exam is about. If there are not enough suitable examiners a collective of the whole guild together with other security experts of the organization attend the exam and function as examiners.
+
+The exam consists of all the assessment points described in the belt activities of the respective Security Belt. The team has to present its implementation for each belt activity in the Security Belt they want to achieve. The examiners should also select some activities of previous belts - the team has already achieved - to check if the team is still applying what it has learned.
+
+If the exam is passed, the belt is awarded to the team by the examiners. Do not forget to celebrate with the team and the guild.
 
 ### Yearly Refresh
 
