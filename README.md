@@ -24,6 +24,7 @@ TODO
 
 ## Belts
 
+- [White Belt](white/README.md)
 - [Yellow Belt](yellow/README.md)
 - [Orange Belt](orange/README.md)
 
