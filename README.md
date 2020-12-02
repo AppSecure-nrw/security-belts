@@ -36,6 +36,7 @@ TODO
 The belt activities serve as a checklist for the team and give additional information to accomplish these activitites. In particular, they consist of:
 - a brief task description the team,
 - a list of further readings to learn more about this topic,
+- references to related activities (if necessarry),
 - the benefits of this activity, and
 - a checklist for the asssessment of the belt.
 
