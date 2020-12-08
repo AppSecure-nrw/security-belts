@@ -11,7 +11,7 @@ Before any team can achieve a specific belt, the Security Champion Guild needs t
 
 
 ## Belts
-Working on the belts is a continuous effort. Start with the first belt, the white belt, and keep working on them, till you achieve the desired belt for your team. Activities of later belts often times relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
+Working on the belts is a continuous effort. Start with the first belt, the white one, and keep working on them, until you achieve the desired belt for your team. Activities of later belts often relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
 
 - [1 - White Belt](white/README.md)
 - [2 - Yellow Belt](yellow/README.md)
