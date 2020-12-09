@@ -26,8 +26,7 @@ following rules, which we consider useful.
 
 ## More Headings
 
-TODO: Assessment
-TODO
+TODO: Assessment and other topics
 
 ## Belt Activities
 
@@ -38,7 +37,7 @@ The belt activities serve as a checklist for the team and give additional inform
 - the benefits of this activity, and
 - a checklist for the asssessment of the belt.
 
-TODO
+TODO: write on
 
 ## The Belts and their Activities
 
