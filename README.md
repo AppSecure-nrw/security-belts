@@ -41,13 +41,13 @@ TODO: write on
 
 ## The Belts and their Activities
 
-## Prerequisites
+### Prerequisites
 Before any team can achieve a specific belt, the Security Champion Guild needs to lay the prerequisites for the teams accordingly. 
 
 - [Prerequisites](prerequisites/README.md)
 
 
-## Belts
+### Belts
 Working on the belts is a continuous effort. Start with the first belt, the white one, and keep working on them, until you achieve the desired belt for your team. Activities of later belts often relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
 
 - [1 - White Belt](white/README.md)
