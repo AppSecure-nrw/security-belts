@@ -1,4 +1,4 @@
-# Nightly test of libraries with known vulnerabilities
+# Nightly Test of Libraries With Known Vulnerabilities
 
 Nightly test for known vulnerabilities in all libraries used by your software are performed.
 
