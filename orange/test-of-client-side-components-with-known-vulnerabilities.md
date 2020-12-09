@@ -1,4 +1,4 @@
-# Test of client side components with known vulnerabilities
+# Test of Client Side Components With Known Vulnerabilities
 
 Tests for known vulnerabilities are performed in all client side software components, used by your software.
 

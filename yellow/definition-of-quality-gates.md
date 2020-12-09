@@ -1,11 +1,11 @@
-# Definition of quality gates
+# Definition of Quality Gates
 
-Quality gates for found vulnerabilities are defined. Provide feedback about vulnerabilities and time of exposure.
+Define quality gates adhering to your companies policy. Make sure that all requirements are fulfilled. Also define quality gates for found vulnerabilities and provide feedback about vulnerabilities and time of exposure.
 
-## Risk
+## Benefits
 
-- Risk of exploitation of a vulnerability continuously increases over time.
-- Vulnerabilities are not fixed in time.
+- Helps to find vulnerabilities earlier. As such, it helps to mitigate the risk of exploitation. This is important, as the risk of exploitation continuously increases over time for a given vulnerability.
+- Vulnerabilities are fixed in time.
 
 ## Assessment
 
@@ -13,4 +13,6 @@ Quality gates for found vulnerabilities are defined. Provide feedback about vuln
 - Show the usage of the gates.
 - Show the treatment of rejected cases.
 - Show your current exposure.
-- How are false positive handled?
+- Show how you handle false positives.
+
+## Further Readings

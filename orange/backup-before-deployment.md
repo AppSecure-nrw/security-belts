@@ -1,4 +1,4 @@
-# Backup before deployment
+# Backup Before Deployment
 
 Changes to the application might corrupt its data. Preparations are being made to restore the data to a state before deployment.
 

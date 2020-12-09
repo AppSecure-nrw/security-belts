@@ -1,11 +1,13 @@
-# Unit tests for security features
+# Unit Tests for Security Features
 
 Test functionality of security related features like authentication and authorization with unit tests.
 
-## Risk
+## Benefits
 
-- Vulnerabilities arise due to errors in security features which are introduced in code changes.
+- Arising vulnerabilities due to faulty code changes in security features can be found immediately.
 
 ## Assessment
 
-- Show your unit tests for some security features.
+- Provide your unit tests for your security features and explain some of them.
+
+## Further Readings
