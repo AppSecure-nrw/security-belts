@@ -41,9 +41,6 @@ The belt activities serve as a checklist for the team and give additional inform
 - a checklist for the asssessment of the belt.
 
 TODO
-TODO
-TODO
-TODO
 
 ## The Belts and their Activities
 
