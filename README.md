@@ -28,8 +28,6 @@ following rules, which we consider useful.
 
 TODO: Assessment
 TODO
-TODO
-TODO
 
 ## Belt Activities
 
