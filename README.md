@@ -12,7 +12,7 @@ By applying the maturity model, the development teams continuously improve thems
 
 On an organizational level, it is crucial that software security is not the task of a centralized team or department but that each development teams is responsible for the software security of its products. In addition, the organization must be aware of the software security requirements for each of its products and the skills needed to meet those requirements. Based on these requirements, the organization can deduce for each product (e.g., via a risk analysis), which belt the development team must at least have. As a consequence, not every team has to achieve the highest belt.
 
-## The Concept behind the Security Belts
+## The Concept
 
 A belt comprises several activities from different areas, whereby each activity contributes to the improvement of software security. Within the maturity model, the belts are tailored so that they can be achieved within a quarter of year. 
 
@@ -24,10 +24,6 @@ following rules, which we consider useful.
 1. Each Security Belt improves transparency to help the team to better understand and communicate to their stakeholders how well it ensures software security.
 2. Each Security Belt supports the team to automate and standardize their new security tasks by introducing at least one new tool.
 
-## More Headings
-
-TODO: Assessment and other topics
-
 ## Belt Activities
 
 The belt activities serve as a checklist for the team and give additional information to accomplish these activitites. In particular, they consist of:
@@ -37,7 +33,9 @@ The belt activities serve as a checklist for the team and give additional inform
 - the benefits of this activity, and
 - a checklist for the asssessment of the belt.
 
-TODO: write on
+## More Headings
+
+TODO: Assessment and other topics
 
 ## The Belts and their Activities
 
