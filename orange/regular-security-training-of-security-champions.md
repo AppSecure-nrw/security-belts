@@ -1,4 +1,4 @@
-# Regular security training of security champions
+# Regular Security Training of Security Champions
 
 *Security is a journey.*
 

@@ -1,19 +1,22 @@
 # Security Code Review
 
-Code review of security-related software and infrastructure with security experts. The following areas of code tend to have high-risk of containing security vulnerabilities:
+Perform code reviews of security-related software and infrastructure with security experts within the team. The following areas of code tend to have a high-risk of containing security vulnerabilities:
   - Crypto implementations / usage
   - Parser, unparser
   - System configuration
   - Authentication, authorization
   - Session management
-  - Request Throttling
-  - :unicorn:
+  - Request throttling
+  - :unicorn: (self-developed code, only used in that one software)
 
-## Risk
+## Benefits
 
-- New vulnerabilities reach production.
-- Old vulnerabilities remain undetected in production.
+- New vulnerabilities may be found before reaching production.
+- Old vulnerabilities are found and fixed.
 
 ## Assessment
 
-- Show evidence of a review and the participants.
+- Present the performed reviews (including participants, findings, consequences) and assess whether it is reasonable.
+
+## Further Readings
+- https://cwe.mitre.org/

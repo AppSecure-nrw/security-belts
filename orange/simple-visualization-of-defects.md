@@ -1,4 +1,4 @@
-# Simple visualization of defects
+# Simple Visualization of Defects
 
 Vulnerabilities are visible to all team members responsible for the affected component.
 

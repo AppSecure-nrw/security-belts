@@ -1,4 +1,4 @@
-# Regular security training for everyone
+# Regular Security Training for Everyone
 
 The whole team attends security SDLC training on a regular basis.
 
