@@ -1,6 +1,6 @@
 # Definition of Quality Gates
 
-Define quality gates adhering to your companies policy, make sure that all requirements are fulfilled. Also define quality gates for found vulnerabilities and provide feedback about vulnerabilities and time of exposure.
+Define quality gates adhering to your companies policy. Make sure that all requirements are fulfilled. Also define quality gates for found vulnerabilities and provide feedback about vulnerabilities and time of exposure.
 
 ## Benefits
 

@@ -4,7 +4,7 @@ Perform tests for known vulnerabilities in all software components used by your 
 
 ## Benefits
 
--  Known vulnerabilities in used components are found and can be remedied.
+-  Known vulnerabilities in used components are found and can be fixed.
 -  The developed software is not vulnerable to well established attacks.
 
 ## Assessment
