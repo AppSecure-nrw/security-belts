@@ -35,17 +35,19 @@ The belt activities serve as a checklist for the team and give additional inform
 
 ## Roles
 
+Security Belts depends on the existence of several roles from the Agile methodology such as Developer and Product Owner (PO). Developers, PO, and optionally a scrum master, form the so-called *team*. 
+
 ### Security Champion
 
-The Security Belts model depends on the existence of several roles from the Agile methodology such as Developer, Product Owner (PO), and Scrum Master who together form the so called *team*. Security Belts adds the role of the Security Champion.
+Security Belts adds the role of the Security Champion to the Agile methodology. 
+The Security Champion is a developer, who is also part of the team. He/she has a profound security knowledge but is not necessarily a security expert. The Security Champion empowers the team such that they can ensure the security of their software products by themselves. Moreover, he/she enables the team to improve themselves concerning software security and raises the importance of security within the team (incl. PO) as well as towards the management.
 
-The Security Champion is a developer with profound security knowledge that consults the team and explains the importance and complexity of security. Security Champions do need dedicated time to implement belt activities within their teams.
-
-Security Champions must attend qualified training such as:
+Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background, 
+practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are: 
+<!--
 - [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
 - TODO
-
-The role of the Security Champion is important in order that the team is able to take over responsibility for software security for their product and to improve themselves.
+-->
 
 ### Security Champion Guild
 
@@ -53,7 +55,7 @@ The Security Champion Guild is a guild as known from the [Spotify model](https:/
 
 The main task of the guild is to spread the Security Belts model in the organization. The guild conducts belt exams and actively improves the model.
 
-All Security Champions and only these are part of the guild otherwise champions are not learning from each other as well as the quality of outcome is reduced.
+All Security Champions and only these are part of the guild otherwise champions are not learning from each other as well as the quality of outcome is reduced. If a central security department exists within the company, then the guild and this departmenet should collaborate with each other.
 
 ## Rituals
 
