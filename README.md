@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty, since they are not aware of the topic and do not have sufficient competencies.
+Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty. The typical main reasons are that the teams not have sufficient awareness and knowledege concerning software security.
 
 The maturity model *Security Belts* pursues the idea of providing development teams reasonable activities to improve software security without overwhelming them with the complexity of the topic. The maturity model conveys values that are based on [The Five Ideals Of DevOps](https://itrevolution.com/five-ideals-of-devops/), which we believe are essential to successfully deliver secure software. In the maturity model, the individual degrees of maturity are represented as belts, which are known from various martial arts such as judo.
 
-By applying the maturity model, the development teams continuously improve themselves and build up the necessary knowledge for the topic. Furthermore, they are requested to deal with software security early on and continuously in the software development process and, thereby, they minimize the risk of insecure releases and security incidents during operation.
+By applying the maturity model, the development teams continuously improve themselves and build up the necessary knowledge for the topic by earning the belts. Furthermore, they are requested to deal with software security early on and continuously in the software development process and, thereby, they minimize the risk of insecure releases and security incidents during operation. As a consequence, Security Belts build confidence on the subject of software security towards customers, management, product owners, and the team itself.
 
 On an organizational level, it is crucial that software security is not the task of a centralized team or department but that each development teams is responsible for the software security of its products. In addition, the organization must be aware of the software security requirements for each of its products and the skills needed to meet those requirements. Based on these requirements, the organization can deduce for each product (e.g., via a risk analysis), which belt the development team must at least have. As a consequence, not every team has to achieve the highest belt.
 
@@ -26,12 +26,12 @@ following rules, which we consider useful.
 
 ## Belt Activities
 
-The belt activities serve as a checklist for the team and give additional information to accomplish these activitites. In particular, they consist of:
-- a brief task description the team,
+The belt activities serve as a checklist for the team and give additional information to accomplish these activities. In particular, they consist of:
+- a brief task description of the team,
 - a list of further readings to learn more about this topic,
-- references to related activities (if necessarry),
+- references to related activities (if necessary),
 - the benefits of this activity, and
-- a checklist for the asssessment of the belt.
+- a checklist for the assessment of the belt.
 
 ## Roles
 
@@ -39,8 +39,7 @@ Security Belts depends on the existence of several roles from the Agile methodol
 
 ### Security Champion
 
-Security Belts adds the role of the Security Champion to the Agile methodology. 
-The Security Champion is a developer, who is also part of the team. He/she has a profound security knowledge but is not necessarily a security expert. The Security Champion empowers the team such that they can ensure the security of their software products by themselves. Moreover, he/she enables the team to improve themselves concerning software security and raises the importance of security within the team (incl. PO) as well as towards the management.
+The maturity model Security Belts adds the role of the Security Champion to the Agile methodology. The Security Champion is a developer, who is also part of the team. He/she has a profound security knowledge but is not necessarily a security expert. The Security Champion empowers the team such that they can ensure the security of their software products by themselves. Moreover, he/she enables the team to improve themselves concerning software security and raises the importance of security within the team (incl. PO) as well as towards the management.
 
 Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background, 
 practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are: 
@@ -51,42 +50,45 @@ practical knowledge, and the necessary soft skills to fulfill its role. Examplar
 
 ### Security Champion Guild
 
-The Security Champion Guild is a guild as known from the [Spotify model](https://www.atlassian.com/agile/agile-at-scale/spotify). Security Champions can participate to get feedback on security related topics from outside their teams such as individual questions, second opinions, and code/concept reviews.
+The Security Champion Guild is a guild as known from the [Spotify model](https://www.atlassian.com/agile/agile-at-scale/spotify). Security Champions participate to get feedback on security-related topics from outside their teams such as individual questions, second opinions, and code/concept reviews.
 
-The main task of the guild is to spread the Security Belts model in the organization. The guild conducts belt exams and actively improves the model.
+The main task of the guild is to spread the Security Belts in the organization. The guild conducts belt assessments and actively improves the maturity model.
 
-All Security Champions and only these are part of the guild otherwise champions are not learning from each other as well as the quality of outcome is reduced. If a central security department exists within the company, then the guild and this departmenet should collaborate with each other.
+All Security Champions and only these are part of the guild. Otherwise, the champions would not learn from each other and the quality of the guild's outcome is at risk as Security Champions have a dedicated training, which other developers have not. If a central security department exists within the company, then the guild and this department should collaborate.
 
 ## Rituals
 
+The Security Belts define a list of rituals that shall be held such that the goals of our model can be accomplished. 
+
 ### Weekly Review
 
-The Security Champion Guild organizes a review on a weekly basis with one representative of each team working on achieving a Security Belt. The representative does not have to be a Security Champion.
+The Security Champion Guild organizes a review every week with one representative of each team working on achieving a Security Belt. If the team does not have a Security Champion yet, then the representative does not have to be a Security Champion.
 
-The weekly is set up like a daily standup in Scrum, where everyone presents the progress of their implementation of the Security Belt activity their currently working on.
+The weekly is set up like a daily standup in Scrum, where everyone presents the progress of their implementation of the Security Belt activity they currently working on.
 
-This meeting gives teams the opportunity to get early feedback and to give the Security Champion Guild transparency about the progress the teams are making with their Security Belts.
+This meeting allows teams to get early feedback and to give the Security Champion Guild transparency about the progress the teams are making with their Security Belts.
 
-### Belt Exam
+### Belt Assessment
 
-The team has to pass a belt exam in order to obtain a Security Belt. Since the Security Belts are intended to empower a team, the whole team - not only the Security Champion - has to attend to the exam.
+There is an assessment for each security belt to ensure that the team has performed the required activities and, thus, has matured concerning software security. 
 
-The belt exam can be requested by the Security Champion Guild. The guild then organizes some examiners. These should be Security Champions which already achieved the Security Belt that the exam is about. If there are not enough suitable examiners a collective of the whole guild together with other security experts of the organization attend the exam and function as examiners.
+The team has to request the assessment through the guild. Since the Security Belts are intended to empower a team, not only the Security Champion but the whole team has to attend to the assessment. The guild then organizes the assessors. There should be at least two Security Champions that already achieved the Security Belt that the assessment is about. If there are not enough suitable assessors, the whole guild and additional security experts of the organization attend the assessment and function as assessors.
 
-The exam consists of all the assessment points described in the belt activities of the respective Security Belt. The team has to present its implementation for each belt activity in the Security Belt they want to achieve. The examiners should also select some activities of previous belts - the team has already achieved - to check if the team is still applying what it has learned.
+The assessment consists of all the assessment points described in the belt activities of the respective Security Belt. The team has to present its implementation for each belt activity in the Security Belt they want to achieve. The assessors should also select some activities of previous belts - the team has already achieved - to check if the team is still applying what it has learned.
 
-If the exam is passed, the belt is awarded to the team by the examiners. Do not forget to celebrate with the team and the guild.
+If the assessment is passed, the belt is awarded to the team by the assessors. Do not forget to celebrate with the team and the guild.
+<!-- Optionally, the guild can buy real judo belts and hand them over to the teams. -->
 
 ### Yearly Refresh
 
-Responsibility for security within a team requires self-improvement and trust, which both can be earned with the Security Belts. But over time teams are changing. Members are exchanged and the priority of the work varies. To continue to trust a team, it makes sense to regularly check whether the team is still actively applying the activities of a Security Belt.
+Over time, teams are changing: members join and leave and the priority of the teams' work, as well as the security requirements of their product, may vary. Consequently, the guild should regularly check whether the team is still actively applying the activities of a Security Belt.
 
-The Security Champion Guild performs a refresh meeting on a yearly basis for each team which achieved a Security Belt. At least two members of a team are invited together with two Security Champions which also achieved the belt to be tested. If there are no suitable candidates, proceed like with the examiners for the belt exam.
+The Security Champion Guild performs a refresh meeting every year for each team that achieved a Security Belt. At least two members of a team are invited together with two Security Champions (the assessors), which also achieved the belt under assessment. If there are no suitable candidates, proceed in the same manner as during the belt assessment.
 
-In the refresh meeting, all belt activities - from all by the team achieved Security Belts - are tested wether the team is still applying it.
+In the refresh meeting, all belt activities - from all achieved security belts - are tested whether the team is still applying it.
 - If all activities are still performed, celebrate this with the team and the guild.
 - If some activities are no more performed, the team has to revive the activity and prove it.
-- If most of the activities are not performed anymore, the team looses the corresponding Security Belts and must take and pass the exam again.
+- If most of the activities are not performed anymore, the team loses the corresponding security belts and has to execute all fail belt activities again.
 
 ## The Belts and their Activities
 
