@@ -6,7 +6,7 @@
 
 Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty. The typical main reasons are that the teams do not have sufficient awareness and knowledge concerning software security.
 
-The maturity model *Security Belts* pursues the idea of providing development teams reasonable activities to improve software security without overwhelming them with the complexity of the topic. The maturity model conveys values that are based on [The Five Ideals Of DevOps](https://itrevolution.com/five-ideals-of-devops/), which we believe are essential to successfully deliver secure software. In the maturity model, the individual degrees of maturity are represented as belts, which are known from various martial arts such as judo.
+The maturity model *Security Belts* pursues the idea of providing development teams reasonable activities to improve software security without overwhelming them with the complexity of the topic. The maturity model conveys values that are based on [The Five Ideals Of DevOps](https://itrevolution.com/five-ideals-of-devops/), which we believe are essential to successfully deliver secure software products. In the maturity model, the individual degrees of maturity are represented as belts, which are known from various martial arts such as judo.
 
 By applying the maturity model, the development teams continuously improve themselves and build up the necessary knowledge for the topic by earning the belts. Furthermore, they are requested to deal with software security early on and continuously in the software development process and, thereby, they minimize the risk of insecure releases and security incidents during operation. As a consequence, Security Belts build confidence on the subject of software security towards customers, management, product owners, and the team itself.
 
@@ -35,11 +35,11 @@ The belt activities serve as a checklist for the team and give additional inform
 
 ## Roles
 
-Security Belts depends on the existence of several roles from the Agile methodology such as Developer and Product Owner (PO). Developers, PO, and optionally a scrum master, form the so-called *team*. 
+Security Belts depends on the existence of several roles from the Agile methodology such as developer and product owner. Developers, product owner, and optionally a scrum master, form the so-called *team*. 
 
 ### Security Champion
 
-The maturity model Security Belts adds the role of the Security Champion to the Agile methodology. The Security Champion is a developer, who is also part of the team. He/she has a profound security knowledge but is not necessarily a security expert. The Security Champion empowers the team such that they can ensure the security of their software products by themselves. Moreover, he/she enables the team to improve themselves concerning software security and raises the importance of security within the team (incl. PO) as well as towards the management.
+The maturity model Security Belts adds the role of the Security Champion to the Agile methodology. The Security Champion is a developer, who is also part of the team. He/she has a profound security knowledge but is not necessarily a security expert. The Security Champion empowers the team such that they can ensure the security of their software products by themselves. Moreover, he/she enables the team to improve themselves concerning software security and raises the importance of security within the team (developers and product owner) as well as towards the management.
 
 Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background, 
 practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are: 
@@ -54,7 +54,7 @@ The Security Champion Guild is a guild as known from the [Spotify model](https:/
 
 The main task of the guild is to spread the Security Belts in the organization. The guild conducts belt assessments and actively improves the maturity model.
 
-All Security Champions and only these are part of the guild. Otherwise, the champions would not learn from each other and the quality of the guild's outcome is at risk as Security Champions have a dedicated training, which other developers have not. If a central security department exists within the company, then the guild and this department should collaborate.
+All Security Champions and only these are part of the guild. Otherwise, the champions would not learn from each other and the quality of the guild's outcome is at risk as Security Champions have a dedicated training, which other developers have not. If a central security department exists within the company, then the guild and this department need to collaborate.
 
 ## Rituals
 
