@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty. The typical main reasons are that the teams not have sufficient awareness and knowledege concerning software security.
+Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty. The typical main reasons are that the teams do not have sufficient awareness and knowledge concerning software security.
 
 The maturity model *Security Belts* pursues the idea of providing development teams reasonable activities to improve software security without overwhelming them with the complexity of the topic. The maturity model conveys values that are based on [The Five Ideals Of DevOps](https://itrevolution.com/five-ideals-of-devops/), which we believe are essential to successfully deliver secure software. In the maturity model, the individual degrees of maturity are represented as belts, which are known from various martial arts such as judo.
 
@@ -72,7 +72,7 @@ This meeting allows teams to get early feedback and to give the Security Champio
 
 There is an assessment for each security belt to ensure that the team has performed the required activities and, thus, has matured concerning software security. 
 
-The team has to request the assessment through the guild. Since the Security Belts are intended to empower a team, not only the Security Champion but the whole team has to attend to the assessment. The guild then organizes the assessors. There should be at least two Security Champions that already achieved the Security Belt that the assessment is about. If there are not enough suitable assessors, the whole guild and additional security experts of the organization attend the assessment and function as assessors.
+The team has to request the assessment through the guild. Since the Security Belts are intended to empower a team and not only the Security Champion, the whole team has to attend to the assessment. The guild organizes the assessors. There should be at least two Security Champions that already achieved the Security Belt that the assessment is about. If there are not enough suitable assessors, the whole guild and additional security experts of the organization attend the assessment and function as assessors.
 
 The assessment consists of all the assessment points described in the belt activities of the respective Security Belt. The team has to present its implementation for each belt activity in the Security Belt they want to achieve. The assessors should also select some activities of previous belts - the team has already achieved - to check if the team is still applying what it has learned.
 
