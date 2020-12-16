@@ -48,6 +48,7 @@ The maturity model Security Belts adds the role of the Security Champion to the 
 Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background, 
 practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are: 
 - [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
+- *suggestions welcome*
 
 ### Security Champion Guild
 
