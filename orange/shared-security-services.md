@@ -1,11 +1,11 @@
 # Shared Security Services
 
-Prefer shared security services and components over implementing security controls yourself. Challenge that these services perform well and secure and make deficiencies transparent.
+Do not reinvent the wheel. Prefer shared security services and components over implementing security controls yourself. Challenge that these services perform well and secure and make deficiencies transparent.
 
-## Risk
+## Benefits
 
-- Using security controls right is hard enough, don not try to implement them yourself.
-- Security controls often have subtile details that lead to vulnerabilities if not done right.
+- Widely used software is less risky to use as problems are more likely to be discovered.
+- You do not mess up subtile details of security controls that lead to vulnerabilities if not done right.
 
 ## Assessment
 
@@ -16,3 +16,5 @@ Prefer shared security services and components over implementing security contro
   - Unparser (like HTML generation)
   - Authentication, authorization
   - Session management
+
+## Further Readings

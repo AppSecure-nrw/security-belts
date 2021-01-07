@@ -1,12 +1,15 @@
 # Nightly Test of Libraries With Known Vulnerabilities
 
-Nightly test for known vulnerabilities in all libraries used by your software are performed.
+Perform nightly tests for known vulnerabilities in all libraries used by your software.
 
-## Risk
+## Benefits
 
-- Known vulnerabilities in used libraries are not found and fixed in time.
+- Known vulnerabilities in used libraries are found and do not pile up without notice.
+- The nightly schedule of the tests do not distract and allows focused work.
 
 ## Assessment
 
 - Show your nightly pipeline and an exemplary job.
 - Show that failed jobs are fixed.
+
+## Further Readings

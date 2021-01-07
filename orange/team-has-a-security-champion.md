@@ -1,13 +1,15 @@
 # Team has a Security Champion
 
-Security Champions bring security knowledge to teams so that they can take responsibility for security.
+Security Champions bring security knowledge to the team so that they can take responsibility for security.
 
-## Risk
+## Benefits
 
-- No one feels directly responsible for security.
-- Central security experts do not have enough time to support each team.
-
+- Security Champion can responsible for the learning process of the Team
+- Central Security Team can focus on operational Tasks
 ## Assessment
 
-- Has the Security Champion already completed the security training?
+- Has the Security Champion already completed a security training?
 - Show *n* security improvement stories solved by several team members.
+
+## Further Reading 
+- [Frauhofer Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
