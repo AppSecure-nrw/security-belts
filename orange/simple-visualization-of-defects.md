@@ -1,18 +1,17 @@
 # Simple Visualization of Defects
 
-Vulnerabilities are visible to all team members responsible for the affected component. 
-The collection should be easy to access, up to date and use simple metrics.
+Make defects (e.g.: vulnerabilities, bugs) visible to all team members for software components the team is responsible for. The collection should be up to date and easy to understand for every team member.
 
-## Benefit 
+*Note*: Providing access to all team members is much more important than collecting all defects in one place.
 
-- a simple visualization of defects helps communicate within the team
-- single point of truth 
+## Benefits
+
+- The quality of all software components is visible.
+- The team is able to prioritize defects.
 
 ## Assessment
 
-- Show the security defect collection.
-- Show that every team member and the product owner has access.
+- Show the defect collection.
+- Show that every team member has access.
 
-## Further Readings 
-
-TODO Visualization Software 
+## Further Readings
