@@ -20,4 +20,5 @@ Implement logging of security relevant events. The following events tend to be s
 ## Further Readings
 
 - [Logging CheatSheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+- [OWASP AppSensor](http://www.appsensor.org)
 - [How attacker can exploit logger](https://owasp.org/www-community/attacks/Log_Injection)

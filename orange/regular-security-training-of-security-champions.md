@@ -2,7 +2,7 @@
 
 *Security is a journey.*
 
-Let the Security Champion attend security trainings on a regular (e.g., yearly) basis and shares the key takeaways with the team, and other Security Champions.
+Let the Security Champion attend security trainings on a regular (e.g., yearly) basis. The key takeaways from the training shall be shared with the team, and other Security Champions.
 
 ## Benefits
 

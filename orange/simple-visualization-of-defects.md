@@ -11,7 +11,7 @@ Make defects (e.g.: vulnerabilities, bugs) visible to all team members for softw
 
 ## Assessment
 
-- Show the defect collection.
+- Show all your defects.
 - Show that every team member has access.
 
 ## Further Readings
