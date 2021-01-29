@@ -35,7 +35,7 @@ The belt activities serve as a checklist for the team and give additional inform
 
 ## Roles
 
-Security Belts depends on the existence of several roles from the Agile methodology such as developer and product owner. Developers, product owner, and optionally a scrum master, form the so-called *team*. 
+Security Belts depends on the existence of several roles from the Agile methodology such as developer and product owner. Developers, product owner, and optionally a scrum master, form the so-called *team*.
 
 ### Security Champion
 
@@ -45,8 +45,8 @@ The maturity model Security Belts adds the role of the Security Champion to the 
   - empowers the team such that they can ensure the security of their software products by themselves.
   - enables the team to improve themselves concerning software security and raises the importance of security within the team (developers and product owner) as well as towards the management.
 
-Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background, 
-practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are: 
+Security Champions must attend a thorough training. They need an overview of the complete security development lifecycle (SDLC), theoretical background,
+practical knowledge, and the necessary soft skills to fulfill its role. Examplary trainings are:
 - [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
 - *suggestions welcome*
 
@@ -60,7 +60,7 @@ All Security Champions and only these are part of the guild. Otherwise, the cham
 
 ## Rituals
 
-The Security Belts define the following list of rituals that shall be held such that the goals of our model can be accomplished. 
+The Security Belts define the following list of rituals that shall be held such that the goals of our model can be accomplished.
 
 ### Weekly Review
 
@@ -72,7 +72,7 @@ This meeting allows teams to get early feedback and to give the Security Champio
 
 ### Belt Assessment
 
-There is an assessment for each security belt to ensure that the team has performed the required activities and, thus, has matured concerning software security. 
+There is an assessment for each security belt to ensure that the team has performed the required activities and, thus, has matured concerning software security.
 
 The team has to request the assessment through the guild. Since the Security Belts are intended to empower a team and not only the Security Champion, the whole team has to attend the assessment. The guild organizes the assessors. There should be at least two Security Champions that already achieved the Security Belt that the assessment is about. If there are not enough suitable assessors, the whole guild and additional security experts of the organization attend the assessment and function as assessors.
 
@@ -106,6 +106,7 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [1 - White Belt](white/README.md)
 - [2 - Yellow Belt](yellow/README.md)
 - [3 - Orange Belt](orange/README.md)
+- [4 - Green Belt [work in progress]](green/README.md)
 
 ## Credits
 
