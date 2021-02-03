@@ -1,5 +1,5 @@
 # 3 - Orange Belt
-< insert goal/description of this belt > TODO
+< TODO: insert goal/description of this belt >
 
 - [Each Team has a Security Champion](team-has-a-security-champion.md)
 - [Regular Security Training of Security Champions](regular-security-training-of-security-champions.md)
