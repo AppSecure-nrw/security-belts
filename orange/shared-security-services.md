@@ -1,11 +1,11 @@
 # Shared Security Services
 
-Do not reinvent the wheel. Prefer shared security services and components over implementing security controls yourself. Challenge that these services perform well and secure and make deficiencies transparent.
+Do not reinvent the wheel. Prefer shared security services and components over implementing security controls yourself. Challenge that these services perform well and secure. Furthermore, make deficiencies transparent.
 
 ## Benefits
 
 - Widely used software is less risky to use as problems are more likely to be discovered.
-- You do not mess up subtile details of security controls that lead to vulnerabilities if not done right.
+- Even minor mistakes in your own security controls could lead to serious security issues. By using shared services, you prevent this risk. 
 
 ## Assessment
 

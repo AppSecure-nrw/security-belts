@@ -1,6 +1,6 @@
 # Test of Client Side Components With Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all third party client side software components used by your software.
+Perform tests for known vulnerabilities in all third party client side software components (e.g., libs and frameworks) used by your software. If possible, use tools to automate this task as much as possible.
 
 ## Benefits
 
@@ -14,7 +14,9 @@ Perform tests for known vulnerabilities in all third party client side software 
 - Show the latest *n* findings.
 - Show your false positive list.
 
-## Further Readings
+## Exemplary Tools
 
+- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check)
 - [Retire.js](https://retirejs.github.io/retire.js)
+## Further Readings
 - [OWASP Top Ten: 9. Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)

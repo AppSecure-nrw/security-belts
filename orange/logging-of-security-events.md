@@ -5,7 +5,7 @@ Implement logging of security relevant events. The following events tend to be s
 - creation, change, and deletion of users
 - errors during input validation and output creation
 - exceptions and errors with security in their name
-- transactions of value (e.g. financial transactions, costly operations)
+- transactions of value (e.g., financial transactions, costly operations)
 - :unicorn: (special things of your application)
 
 ## Benefits

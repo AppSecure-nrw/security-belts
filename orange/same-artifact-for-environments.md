@@ -4,7 +4,7 @@ Build your artifacts only once. Use the same artifact for testing as well as for
 
 ## Benefits
 
-- The tested artifact is the one which is deployed. No environment specific changes right before production deployment are required. Therefore, bugs introduced by these changes are prevented.
+- The tested artifact is the one which is deployed. No environment specific changes are required right before production deployment. Therefore, bugs introduced by these changes are prevented.
 
 ## Assessment
 
