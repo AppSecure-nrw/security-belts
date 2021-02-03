@@ -1,6 +1,6 @@
 # Static analysis for all self written components
 
-Use static code analysis tools to perform checks on all self written components.
+Use static code analysis tools to perform checks on all self-written components.
 
 ## Benefits
 
@@ -16,7 +16,7 @@ Use static code analysis tools to perform checks on all self written components.
 - Show your false positive list.
 
 ## Further Readings
-- [Contrast](https://www.contrastsecurity.com/)
-- [Spotbugs](https://spotbugs.github.io/)
-- [SonarQube](https://www.sonarqube.org/)
-- [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
+- Tool: [Contrast](https://www.contrastsecurity.com/)
+- Tool: [Spotbugs](https://spotbugs.github.io/)
+- Tool: [SonarQube](https://www.sonarqube.org/)
+- Tool: [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
