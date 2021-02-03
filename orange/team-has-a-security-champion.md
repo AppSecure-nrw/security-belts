@@ -14,9 +14,7 @@ Find and train a [Security Champion](https://github.com/AppSecure-nrw/security-b
 - Show that the Security Champion has completed a security training.
 - Show the improvements and activities made by the Security Champion, e.g., training the team and executing belt activities.
 
-## Further Reading
-- Finding Security Champions in Blends of Organisational Culture by Ingolf Becker et al, 2017
-- Selecting Security Champions by Trevor Gabriel et al., 2011
-
-## Exemplary Vendors
-- [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
+## Further Readings
+- Literature: Finding Security Champions in Blends of Organisational Culture by Ingolf Becker et al, 2017
+- Literature: Selecting Security Champions by Trevor Gabriel et al., 2011
+- Training: [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)
