@@ -18,4 +18,4 @@ Perform tests for known vulnerabilities in all containers used by your software.
  - Container Update Enforcement (in development)
 
  ## Further Readings
- - [Xray](https://jfrog.com/xray/)
+ - [JFrog Xray](https://jfrog.com/xray/)
