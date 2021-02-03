@@ -1,6 +1,8 @@
-# Test of Containers Regarding Known Vulnerabilities
+# Test of Container Images Regarding Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all containers used by your software.
+Perform tests for known vulnerabilities in all container images used by your software.
+
+Note, that this can result in many found vulnerabilities. Check, whether they are fixed with the next build of the container image. See related Belt Activity: Container Update Enforcement.
 
 ## Benefits
 
