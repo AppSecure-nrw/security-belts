@@ -13,4 +13,4 @@ Let the Security Champion attend security trainings on a regular (e.g., yearly) 
 
 - The Security Champion talks about the key takeaways of the security focused training.
 
-# Further Readings
+## Further Readings
