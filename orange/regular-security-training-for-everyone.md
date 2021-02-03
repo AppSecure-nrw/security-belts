@@ -11,4 +11,4 @@ Attend security SDLC trainings with the team on a regular basis.
 
 - Each team member talks about their key takeaways of the security SDLC training.
 
-# Further Readings
+## Further Readings
