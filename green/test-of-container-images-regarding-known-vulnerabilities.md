@@ -6,8 +6,8 @@ Note that this can result in many found vulnerabilities. Check whether they are 
 
 ## Benefits
 
--  Known vulnerabilities in used containers are found and can be fixed.
--  The developed software is not vulnerable to well established attacks.
+- Known vulnerabilities in used containers are found and can be fixed.
+- The system is not vulnerable to well known attacks in middle-ware it relies on.
 
 ## Assessment
 
@@ -21,3 +21,6 @@ Note that this can result in many found vulnerabilities. Check whether they are 
 
 ## Further Readings
  - [Tool: JFrog Xray](https://jfrog.com/xray/)
+ - [Tool: Anchore](https://anchore.com/)
+ - [Tool: Clair](https://github.com/quay/clair/releases)
+ 
