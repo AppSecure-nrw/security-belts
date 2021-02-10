@@ -35,7 +35,7 @@ The belt activities serve as a checklist for the team and give additional inform
 
 ## Roles
 
-Security Belts depends on the existence of several roles from the Agile methodology such as developer and product owner. Developers, product owner, and optionally a scrum master, form the so-called *team*.
+Security Belts depend on the existence of several roles from the Agile methodology such as developer and product owner. Developers, product owner, and optionally a scrum master, form the so-called *team*.
 
 ### Security Champion
 
@@ -106,6 +106,7 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [1 - White Belt](white/README.md)
 - [2 - Yellow Belt](yellow/README.md)
 - [3 - Orange Belt](orange/README.md)
+- [4 - Green Belt [work in progress]](green/README.md)
 - [5 - Purple Belt [work in progress]](purple/README.md)
 
 ## Credits

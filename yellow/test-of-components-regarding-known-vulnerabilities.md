@@ -16,8 +16,7 @@ Perform tests for known vulnerabilities in all software components used by your 
 
 ## Related Belt Activities
  - Container Update Enforcement (in development)
- - Test of Containers Regarding Known Vulnerabilities (in development)
- 
+ - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-infrastructure-components-regarding-known-vulnerabilities.md)
 
- ## Further Readings
+## Further Readings
  - https://owasp.org/www-project-dependency-check/
