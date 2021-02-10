@@ -16,6 +16,7 @@
 - [The Belts and their Activities](#the-belts-and-their-activities)
   * [Prerequisites](#prerequisites)
   * [Belts](#belts)
+- [Getting Started](#getting-started)
 - [Credits](#credits)
 
 ## Introduction
@@ -124,6 +125,38 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [3 - Orange Belt](orange/README.md)
 - [4 - Green Belt [work in progress]](green/README.md)
 - [5 - Purple Belt [work in progress]](purple/README.md)
+
+## Getting Started
+
+### The Bottom-Up Way for Developers:
+This is a possible way to get you started. 
+
+- Become familiar with our security belts concepts such that you can explain them to your colleagues.
+
+- You need to convince 
+
+- Identify colleagues in your company (preferable in your team) that also want to improve the secure software development. These may be fellow developers, product owners, or even managers. (Reference to the rebellion of the Unicorn Project).
+	- Explain them why your team or even your company has to improve concerning the secure software development. 
+	- Explain them the idea and concept of security belts and try to convince them to join your journey.
+	- Todo: Slides for introducing Security Belts (see slides by Niklas).
+
+- Convince your Product Owner (or your team or any other person that can decide how you spend your working hours) to spend some time to collect data that show the need of change.
+	- Talk with the PO at first alone (at most a second person) and explain that several people see the need of change.
+	- If necessary, raise awareness for the topic of software security in general at your PO. (TODO: slides about news, big incidenty, statistics, ...)
+	- Convince that you may spend time to roughly assess the current state of security of your software product. Possible ways to assess the current state:
+		- Collect all security-related incidents and bugs of your product (currently and in the past).
+		- Execute easy to use open-source tools to assess your security, e.g., OWASP Dependency Check and SpotBugs.
+		- Convince your PO to spend the money for a Pen-Test by an external security expert. Average costs are 2.000-18.000 Euro.
+		<!-- - Specify some evil user stories that are valid for your product. -->
+		<!-- - Execute the initial security belts assessment. (This is not available yet.) -->
+	- Show the results of your assessment to your PO. Present the security belts as a method and convince your PO to start working on the security belts in your team.
+ - Show the results of your assessment to your team. Present the security belts as a method and convince your team to start working on the security belts in your team.
+
+- Identify persons decide how you and your team spend your working hours and that TODO: judge the tradeoff  risk vs revenue 
+- TODO: more to come
+
+### The Top-Down Way for Managers and POs:
+- TODO
 
 ## Credits
 
