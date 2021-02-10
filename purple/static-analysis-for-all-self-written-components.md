@@ -4,9 +4,8 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 
 ## Benefits
 
-- Prevention of common mistakes within the code.
-- New vulnerabilities may be found before reaching production.
-- Old vulnerabilities are found and can be fixed.
+- Prevention of common vulnerabilities within your code during development.
+- Static code analysis provides early feedback, such that developers can learn how to improve their code quality and avoid vulnerabilities in the future.
 
 ## Assessment
 
