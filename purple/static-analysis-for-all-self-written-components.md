@@ -1,6 +1,6 @@
 # Static analysis for all self-written components
 
-Use static code analysis tools to perform checks on all self-written components.
+Use static code analysis tools to find security vulnerabilities in all self-written components.
 
 ## Benefits
 
