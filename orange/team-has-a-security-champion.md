@@ -1,13 +1,20 @@
 # Team has a Security Champion
 
-Security Champions bring security knowledge to teams so that they can take responsibility for security.
+Find and train a [Security Champion](https://github.com/AppSecure-nrw/security-belts#security-champion) from within the team.
 
-## Risk
+*Note*: The Security Champion should be a volunteer interested in software security. Just forcing someone to take the role is worse than having no Security Champion.
 
-- No one feels directly responsible for security.
-- Central security experts do not have enough time to support each team.
+## Benefits
+
+- The Security Champion brings security knowledge to the team so that the team can make informed security decisions and take responsibility for security.
+- Central security experts can focus on other tasks.
 
 ## Assessment
 
-- Has the Security Champion already completed the security training?
-- Show *n* security improvement stories solved by several team members.
+- Show that the Security Champion has completed a security training.
+- Show the improvements and activities made by the Security Champion, e.g., training the team and executing belt activities.
+
+## Further Readings
+- Literature: Finding Security Champions in Blends of Organisational Culture by Ingolf Becker et al, 2017
+- Literature: Selecting Security Champions by Trevor Gabriel et al., 2011
+- Training: [Fraunhofer IEM - Security Champion Training](https://www.iem.fraunhofer.de/de/academy/schulungsangebot/security-champion-training.html)

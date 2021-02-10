@@ -1,17 +1,24 @@
 # Logging of Security Events
 
-Security relevant events are logged. The following events tend to be security relevant:
+Implement logging of security relevant events. The following events tend to be security relevant:
 - successful/failed login/logout
-- creation, change, deletion of users
+- creation, change, and deletion of users
 - errors during input validation and output creation
 - exceptions and errors with security in their name
-- :unicorn:
+- transactions of value (e.g., financial transactions, costly operations)
+- :unicorn: (special things of your application)
 
-## Risk
+## Benefits
 
-- Security incident analysis takes significantly more time without propper security events, such that an attack can not be stoped before the attacker reaches his goal.
+- Security incident analysis takes significantly less time with proper security events, such that an attack can be stopped before the attacker reaches his goal.
 
 ## Assessment
 
 - Show which events are logged.
 - Show a test for one event logging.
+
+## Further Readings
+
+- Literature: [Logging CheatSheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+- Literature: [How attacker can exploit logger](https://owasp.org/www-community/attacks/Log_Injection)
+- Tool: [OWASP AppSensor](http://www.appsensor.org)

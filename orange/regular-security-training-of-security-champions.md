@@ -2,13 +2,15 @@
 
 *Security is a journey.*
 
-Security Champion attends security trainings on a regular basis and shares the key takeaways with team, and other Security Champions.
+Let the Security Champion attend security trainings on a regular (e.g., yearly) basis. The key takeaways from the training shall be shared with the team and other Security Champions.
 
-## Risk
+## Benefits
 
-- Understanding security is hard, even for Security Champions.
-- Technology is evolving, so are security threats, vulnerabilities and countermeasures. Not keeping up to date may create security risks.
+- Improve security knowledge within the team.
+- Keeping up with evolving security threats, vulnerabilities, and best practices.
 
 ## Assessment
 
 - The Security Champion talks about the key takeaways of the security focused training.
+
+## Further Readings

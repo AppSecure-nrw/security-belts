@@ -1,12 +1,14 @@
 # Regular Security Training for Everyone
 
-The whole team attends security SDLC training on a regular basis.
+Attend security SDLC trainings with the team on a regular basis.
 
-## Risk
+## Benefits
 
-- Understanding security is hard.
-- Technology is evolving, so are security threats, vulnerabilities and countermeasures. Not keeping up to date may create security risks.
+- Improve security knowledge within the team.
+- Keeping up with evolving security threats, vulnerabilities, and best practices.
 
 ## Assessment
 
 - Each team member talks about their key takeaways of the security SDLC training.
+
+## Further Readings

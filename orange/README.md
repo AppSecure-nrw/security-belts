@@ -1,5 +1,5 @@
 # 3 - Orange Belt
-< insert goal/description of this belt >
+< TODO: insert goal/description of this belt >
 
 - [Each Team has a Security Champion](team-has-a-security-champion.md)
 - [Regular Security Training of Security Champions](regular-security-training-of-security-champions.md)
@@ -12,4 +12,4 @@
 - [Logging of Security Events](logging-of-security-events.md)
 - [Nightly Test of Libraries With Known Vulnerabilities](nightly-test-of-libraries-with-known-vulnerabilities.md)
 - [Shared Security Services](shared-security-services.md)
-- [Review Vendor Software Security](review-vendor-software-security.md)
+
