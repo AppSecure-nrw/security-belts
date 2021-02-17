@@ -2,6 +2,22 @@
 
 > The maturity model *Security Belts* structures activities of the secure software development and, thus, offers development teams a good opportunity to address the topic and to build up necessary competencies to ensure the software security of their products. Thereby, the maturity model supports development teams that are overwhelmed with the duty to take over much more responsibility without having sufficient competencies in the team.
 
+**Table of Contents**
+- [Introduction](#introduction)
+- [The Concept](#the-concept)
+- [Belt Activities](#belt-activities)
+- [Roles](#roles)
+  * [Security Champion](#security-champion)
+  * [Security Champion Guild](#security-champion-guild)
+- [Rituals](#rituals)
+  * [Weekly Review](#weekly-review)
+  * [Belt Assessment](#belt-assessment)
+  * [Yearly Refresh](#yearly-refresh)
+- [The Belts and their Activities](#the-belts-and-their-activities)
+  * [Prerequisites](#prerequisites)
+  * [Belts](#belts)
+- [Credits](#credits)
+
 ## Introduction
 
 Due to the increasing requirements on the security of software products and new evolving development methodologies, development teams have to take much more responsibility for the software security of their product. However, as recent studies and security incidents indicate, development teams are overwhelmed with this duty. The typical main reasons are that the teams do not have sufficient awareness and knowledge concerning software security.
