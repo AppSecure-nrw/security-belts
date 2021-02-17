@@ -112,3 +112,9 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 ## Credits
 
 The Security Belts are based on the [OWASP DevSecOps Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/) and partially inspired by [OWASP SAMM](https://owasp.org/www-project-samm/)
+
+This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379). 
+<br/>
+  <br/><img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Logo_48_lang_Zeichenfl%C3%A4che%201.png" alt="AppSecure.nrw Logo" height="50"/>
+  
+<img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/EFRE_Foerderhinweis_englisch_farbig.jpg" alt="EFRE Logo" height="50"/> <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Ziel2NRW_RGB_1809_jpg.jpg" alt="Ziel2NRW Logo" height="50"/>
