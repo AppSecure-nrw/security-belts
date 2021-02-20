@@ -19,3 +19,4 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 - Tool: [Spotbugs](https://spotbugs.github.io/)
 - Tool: [SonarQube](https://www.sonarqube.org/)
 - Tool: [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
+- Tool: [semgrep](https://semgrep.dev/)
