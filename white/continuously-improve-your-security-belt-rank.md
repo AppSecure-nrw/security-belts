@@ -1,6 +1,8 @@
 # Continuously Improve your Security Belt Rank
 
-In order to build and operate secure software these days, it is no longer enough to just comply with the most basic security policies. Constant self-improvement is important. But Security is like a big pizza. You cannot eat it as a whole, but you can slice it and continuously eat small slices. To make this happen, ensure that the Product Owner continuously prioritizes the security belt activities for the next belt highly within the product backlog. Security belt activities make good slices because they are of reasonable size and have a defined output. Celebrate all your implemented security belt activities.
+Security is like a big pizza. You cannot eat it as a whole, but you can slice it and continuously eat small slices. To make this happen:
+- ensure that the Product Owner continuously prioritizes the security belt activities for the next belt highly within the product backlog. Security belt activities make good slices because they are of reasonable size and have a defined output. 
+- Celebrate all your implemented security belt activities.
 
 ## Benefits
 
