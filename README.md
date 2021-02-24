@@ -128,17 +128,30 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 
 ## Getting Started
 
+1. Wir schreiben ein sehr kurzes Getting-Started
+2. FAQ wird dynamisch erstellt basierend auf den Fragen der Verprober
+3. Wir schreiben ein Parts-Unlimited
+
+- A possible Security Journey for a Company that uses Security Belts
+	- keine belts im unternehmen, hohes Risiko für unsichere Produkte
+	- erstes teams hat mit den belts begonnen
+	- mehrere teams arbeiten an den gürteln, gilde gegründet und company-implementierung (best practice, guidelines) der belts festlegen
+	- alle aktiven teams haben mind den gelben gürtel (den müssen alle teams haben, da dieser die absolute basis darstellt)
+	- jedes aktive team hat für seine produkte gürtelfarben definiert
+	- alle teams haben den gürtel den ihr produkt benötigt
+- siehe stufen von spice und cmmi (mappt nicht exakt, ist aber verwandt):
+	https://de.wikipedia.org/wiki/Capability_Maturity_Model#/media/Datei:Characteristics_of_Capability_Maturity_Model.svg
+
 ### The Bottom-Up Way for Developers:
 This is a possible way to get you started. 
 
 - Become familiar with our security belts concepts such that you can explain them to your colleagues.
 
-- You need to convince 
-
 - Identify colleagues in your company (preferable in your team) that also want to improve the secure software development. These may be fellow developers, product owners, or even managers. (Reference to the rebellion of the Unicorn Project).
 	- Explain them why your team or even your company has to improve concerning the secure software development. 
 	- Explain them the idea and concept of security belts and try to convince them to join your journey.
 	- Todo: Slides for introducing Security Belts (see slides by Niklas).
+- Man braucht einen Team-Externen, der das Assesment durchführt
 
 - Convince your Product Owner (or your team or any other person that can decide how you spend your working hours) to spend some time to collect data that show the need of change.
 	- Talk with the PO at first alone (at most a second person) and explain that several people see the need of change.
@@ -150,10 +163,23 @@ This is a possible way to get you started.
 		<!-- - Specify some evil user stories that are valid for your product. -->
 		<!-- - Execute the initial security belts assessment. (This is not available yet.) -->
 	- Show the results of your assessment to your PO. Present the security belts as a method and convince your PO to start working on the security belts in your team.
- - Show the results of your assessment to your team. Present the security belts as a method and convince your team to start working on the security belts in your team.
+ - Show the results of your assessment to your team. 
+ 	- Present the security belts as a method.
+	- Convince your team (incl. your PO) to start working on the security belts in your team.
+- Make sure that the whole team has sufficient time to actively work on the belts.
 
-- Identify persons decide how you and your team spend your working hours and that TODO: judge the tradeoff  risk vs revenue 
+- As soon as a second team starts working on the belts:
+	- Establish the Security Champion Guild (at first it does not need to consist of Security Champions)
+	- The guild needs to define how your company implements each belt activity.
+
+
+- Identify persons decide how your whole team spend its working hours and that 
+- 
+- TODO: judge the tradeoff risk vs revenue 
+- 
 - TODO: more to come
+- Diskussion: brauchen wir die prerequisites wirklich? sind das nicht einfach die aufgaben der gilde?
+
 
 ### The Top-Down Way for Managers and POs:
 - TODO
