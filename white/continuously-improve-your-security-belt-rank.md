@@ -12,6 +12,5 @@ To make this happen:
 - The team's initially high motivation and momentum can be used.
 - The Product Owner has transparency of the investment and benefit of security belts.
 - The team is improving its software security.
-- The team can build secure software, not only software adhering to security policies.
 
 ## Further Readings
