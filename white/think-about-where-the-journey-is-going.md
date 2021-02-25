@@ -1,6 +1,6 @@
 # Think about where the journey is going
 
-Think about which security belt might be sufficient for the business criticality of your software.
+Estimate which security belt might be sufficient for the business criticality of your software.
 
 Take a look at:
 
