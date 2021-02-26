@@ -127,13 +127,13 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [5 - Purple Belt [work in progress]](purple/README.md)
 
 ## A Getting Started for Developers 
-
 <!--wir hören auf bevor ein Team mit dem weißen Gürtel anfängt)-->
-
+<!--
 TODO: Link to slides for security awareness and security belts introduction
 TODO: Link to Parts Unlimited Story
 	(Reference to the rebellion of the Unicorn Project).
 TODO: Link to FAQ
+-->
 
 - Become familiar with our security belts concepts such that you can explain them to your colleagues using our slides.
 - Identify colleagues (developers, product owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company.
