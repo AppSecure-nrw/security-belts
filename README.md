@@ -126,12 +126,37 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [4 - Green Belt [work in progress]](green/README.md)
 - [5 - Purple Belt [work in progress]](purple/README.md)
 
-## Getting Started
+## A Getting Started for Developers 
 
-1. Wir schreiben ein sehr kurzes Getting-Started
-2. FAQ wird dynamisch erstellt basierend auf den Fragen der Verprober
-3. Wir schreiben ein Parts-Unlimited
+<!--wir hören auf bevor ein Team mit dem weißen Gürtel anfängt)-->
 
+TODO: Link to slides for security awareness and security belts introduction
+TODO: Link to Parts Unlimited Story
+	(Reference to the rebellion of the Unicorn Project).
+TODO: Link to FAQ
+
+- Become familiar with our security belts concepts such that you can explain them to your colleagues using our slides.
+- Identify colleagues (developers, product owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company.
+- Convince your product owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
+- Persuade your PO and team to start working on the belts by showing the results of your assessment.
+- Let your PO be proud: He/She shall report to the top-management that you improve your software security.
+
+<!--
+### The Top-Down Way for Managers
+- Become familiar with our security belts concepts such that you can explain them to your POs and teams using our slides.
+- Assign an initial team to improve its secure software development using the security belts. If a security department exists, assign them to support this team.
+- Optionally: Let this team roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs) such that they can measure their progress.
+- As soon as the initial team has achieved at least the yellow belt: Let this team report in a company meeting about their experience and results. Afterwards, assign more / all teams to start working on the belts.
+-->
+
+<!--
+The Top-Down Way for POs
+- Become familiar with our security belts concepts such that you can explain them to your team members using our slides.
+- Let your team roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
+- Assign your team to start working on the belts after discussing the results of the assessment.
+- Report to the top-management that you improve your software security.
+-->
+<!--
 - A possible Security Journey for a Company that uses Security Belts
 	- keine belts im unternehmen, hohes Risiko für unsichere Produkte
 	- erstes teams hat mit den belts begonnen
@@ -141,18 +166,12 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 	- alle teams haben den gürtel den ihr produkt benötigt
 - siehe stufen von spice und cmmi (mappt nicht exakt, ist aber verwandt):
 	https://de.wikipedia.org/wiki/Capability_Maturity_Model#/media/Datei:Characteristics_of_Capability_Maturity_Model.svg
-
-### The Bottom-Up Way for Developers:
-This is a possible way to get you started. 
-
 - Become familiar with our security belts concepts such that you can explain them to your colleagues.
-
 - Identify colleagues in your company (preferable in your team) that also want to improve the secure software development. These may be fellow developers, product owners, or even managers. (Reference to the rebellion of the Unicorn Project).
 	- Explain them why your team or even your company has to improve concerning the secure software development. 
 	- Explain them the idea and concept of security belts and try to convince them to join your journey.
 	- Todo: Slides for introducing Security Belts (see slides by Niklas).
 - Man braucht einen Team-Externen, der das Assesment durchführt
-
 - Convince your Product Owner (or your team or any other person that can decide how you spend your working hours) to spend some time to collect data that show the need of change.
 	- Talk with the PO at first alone (at most a second person) and explain that several people see the need of change.
 	- If necessary, raise awareness for the topic of software security in general at your PO. (TODO: slides about news, big incidenty, statistics, ...)
@@ -160,29 +179,21 @@ This is a possible way to get you started.
 		- Collect all security-related incidents and bugs of your product (currently and in the past).
 		- Execute easy to use open-source tools to assess your security, e.g., OWASP Dependency Check and SpotBugs.
 		- Convince your PO to spend the money for a Pen-Test by an external security expert. Average costs are 2.000-18.000 Euro.
-		<!-- - Specify some evil user stories that are valid for your product. -->
-		<!-- - Execute the initial security belts assessment. (This is not available yet.) -->
+		- Specify some evil user stories that are valid for your product.
+		- Execute the initial security belts assessment. (This is not available yet.)
 	- Show the results of your assessment to your PO. Present the security belts as a method and convince your PO to start working on the security belts in your team.
  - Show the results of your assessment to your team. 
  	- Present the security belts as a method.
 	- Convince your team (incl. your PO) to start working on the security belts in your team.
 - Make sure that the whole team has sufficient time to actively work on the belts.
-
 - As soon as a second team starts working on the belts:
 	- Establish the Security Champion Guild (at first it does not need to consist of Security Champions)
 	- The guild needs to define how your company implements each belt activity.
-
-
 - Identify persons decide how your whole team spend its working hours and that 
-- 
 - TODO: judge the tradeoff risk vs revenue 
-- 
 - TODO: more to come
 - Diskussion: brauchen wir die prerequisites wirklich? sind das nicht einfach die aufgaben der gilde?
-
-
-### The Top-Down Way for Managers and POs:
-- TODO
+--> 
 
 ## Credits
 
