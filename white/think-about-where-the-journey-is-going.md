@@ -2,7 +2,7 @@
 
 Achieving the highest Security Belt might not make economic sense and may therefore not be necessary.
 
-- Estimate which Security Belt might be sufficient for the business criticality of your software.
+- Estimate which Security Belt might be sufficient for the business criticality of your software. Your estimate might be just a first guess but not the last.
 - Commit on your estimation with your product owner.
 - Challenge your estimation after each achieved Security Belt. Since you should have a better understanding of security, your estimation should become more profound.
 
