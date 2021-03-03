@@ -4,7 +4,7 @@ Depending on the criticality of your own software, achieving the highest Securit
 
 - Estimate which Security Belt might be sufficient for the business criticality of your software.
 - Commit on your estimation with your product owner.
-- Challenge your estimation after each achieved Security Belt. Since you should have a better understanding of security, your estimation should be more profound.
+- Challenge your estimation after each achieved Security Belt. Since you should have a better understanding of security, your estimation should become more profound.
 
 To estimate, take a look at:
 - which kind of data is processed by your software.
