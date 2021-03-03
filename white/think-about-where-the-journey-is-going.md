@@ -1,6 +1,6 @@
 # Think about where the journey is going
 
-Depending on the criticality of your own software, achieving the highest Security Belt might not make economic sense and is therefore not necessary.
+Achieving the highest Security Belt might not make economic sense and is therefore not necessary.
 
 - Estimate which Security Belt might be sufficient for the business criticality of your software.
 - Commit on your estimation with your product owner.
