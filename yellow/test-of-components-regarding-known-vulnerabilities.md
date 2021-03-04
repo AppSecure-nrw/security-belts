@@ -19,4 +19,4 @@ Perform tests for known vulnerabilities in all software components used by your 
  - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-infrastructure-components-regarding-known-vulnerabilities.md)
 
 ## Further Readings
- - https://owasp.org/www-project-dependency-check/
+ - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)
