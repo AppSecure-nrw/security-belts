@@ -1,6 +1,6 @@
 # Security Code Review
 
-Perform code reviews of security-related software and infrastructure with security experts within the team. The following areas of code tend to have a high-risk of containing security vulnerabilities:
+Perform code reviews of security-related software and infrastructure with the Security Champion Guild. The following areas of code tend to have a high-risk of containing security vulnerabilities:
   - Crypto implementations / usage
   - Parser, unparser
   - System configuration
