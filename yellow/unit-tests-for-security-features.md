@@ -1,6 +1,18 @@
 # Unit Tests for Security Features
 
-Test functionality of security-related features like authentication, and authorization with unit tests. [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide) provides some general starting points you should cover:
+Test functionality of security-related features like authentication, and authorization with unit tests.
+
+## Benefits
+
+- Arising vulnerabilities due to faulty code changes in security features can be found immediately.
+
+## Assessment
+
+- Provide your unit tests for your security features and explain some of them.
+
+## Examples
+
+[OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide) provides some general starting points you should cover:
 
 - [4.4.7 Testing for Weak Password Policy](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/07-Testing_for_Weak_Password_Policy.html)
   - test for known passwords like $company2021, admin, $projcetName, 123456, aaa
@@ -18,13 +30,6 @@ Test functionality of security-related features like authentication, and authori
   1. Use the reference to access the document or resource.
   1. Fail the test if you have access
 
-
-## Benefits
-
-- Arising vulnerabilities due to faulty code changes in security features can be found immediately.
-
-## Assessment
-
-- Provide your unit tests for your security features and explain some of them.
-
 ## Further Readings
+
+- Literature: [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide)
