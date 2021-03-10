@@ -12,4 +12,4 @@ The white belt - with its activities - shall lay the organizational basis for th
 - [Review Security Belt Activities](review-security-belt-activities.md)
 
 ## Further Readings ##
-- David DeWolf: [Culture Eats Technology for Lunch](https://www.entrepreneur.com/article/245511)
+- Literature: [Culture Eats Technology for Lunch](https://www.entrepreneur.com/article/245511) -David DeWolf
