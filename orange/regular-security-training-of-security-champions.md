@@ -13,4 +13,17 @@ Let the Security Champion attend security trainings on a regular (e.g., yearly) 
 
 - The Security Champion talks about the key takeaways of the security focused training.
 
+## Examples
+
+Some example conferences that offer trainings:
+- OWASP Global AppSec
+- Heise DevSec
+- Troopers
+- DevSecCon
+- RuhrSec
+- IT-Defense
+- BlackHat
+- SecAppDev
+- HITB
+
 ## Further Readings
