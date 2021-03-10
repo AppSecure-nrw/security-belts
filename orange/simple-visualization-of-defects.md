@@ -17,4 +17,4 @@ Collect defects (e.g., vulnerabilities, bugs) of software components the team is
 ## Further Readings
 - Tool: [OWASP Defect Dojo](https://owasp.org/www-project-defectdojo/)
 - Tool: Jenkins visualization plugin
-- Tool: Grafana
+- Tool: [Grafana](https://grafana.com/)
