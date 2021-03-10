@@ -1,8 +1,5 @@
 # 1 - White Belt
 
-> "Culture eats technology for lunch."  - David DeWolf
-<!-- https://www.entrepreneur.com/article/245511 -->
-
 The white belt - with its activities - shall lay the organizational basis for the improvement of your software security. Unlike other belts, it has no assessment. Once your team and Product Owner commit to work on the Security Belts, you can claim the white belt and start working on the next Security Belt.
 
 ## Activities
@@ -15,4 +12,4 @@ The white belt - with its activities - shall lay the organizational basis for th
 - [Review Security Belt Activities](review-security-belt-activities.md)
 
 ## Further Readings ##
-- David DeWolf: Culture Eats Technology for Lunch https://www.entrepreneur.com/article/245511
+- David DeWolf: [Culture Eats Technology for Lunch](https://www.entrepreneur.com/article/245511)
