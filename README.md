@@ -128,7 +128,7 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 
 ## A Getting Started for Developers 
 
-- Become familiar with our security belts concepts such that you can explain them to your colleagues using our slides.
+- Become familiar with our security belts concepts such that you can explain them to your colleagues. In the future, we will provide slides to ease this task.
 - Identify colleagues (developers, product owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company.
 - Convince your product owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
 - Persuade your PO and team to start working on the belts by showing the results of your assessment.
