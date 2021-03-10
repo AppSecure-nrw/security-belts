@@ -19,4 +19,4 @@ Perform code reviews of security-related software and infrastructure with the Se
 - Present the performed reviews (including participants, findings, consequences) and assess whether it is reasonable.
 
 ## Further Readings
-- https://cwe.mitre.org/
+- Literature: [CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2020/2020_cwe_top25.html)
