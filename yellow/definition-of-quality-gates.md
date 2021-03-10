@@ -16,4 +16,4 @@ Define quality gates adhering to your companies policy. Make sure that all requi
 - Show how you handle false positives.
 
 ## Further Readings
-- Tool: https://plugins.jenkins.io/warnings-ng/
+- Tool: [Jenkins warnings-ng plugin](https://plugins.jenkins.io/warnings-ng/)
