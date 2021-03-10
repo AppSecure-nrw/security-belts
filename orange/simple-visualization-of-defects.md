@@ -15,6 +15,6 @@ Collect defects (e.g., vulnerabilities, bugs) of software components the team is
 - Show that every team member has access.
 
 ## Further Readings
-- Tool: OWASP Defect Dojo
+- Tool: [OWASP Defect Dojo](https://owasp.org/www-project-defectdojo/)
 - Tool: Jenkins visualization plugin
 - Tool: Grafana
