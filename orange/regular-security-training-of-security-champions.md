@@ -15,7 +15,7 @@ Let the Security Champion attend security trainings on a regular (e.g., yearly) 
 
 ## Examples
 
-Some example conferences which offer trainings:
+Some example conferences that offer trainings:
 - OWASP Global AppSec
 - Heise DevSec
 - Troopers
