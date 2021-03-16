@@ -1,15 +1,23 @@
 # Creation of Evil User Stories
 
-Evil user stories are created that complement user stories from a security perspective.
+Create evil user stories to complement user stories from a security perspective.
 
-Use a template like for normal user stores: As a *role*, I can *capability*, so that *receive benefit*.
+Use a template like for normal user stores:
+```
+As a <role>, I can <capability>, so that <receive benefit>.
+```
 
-## Risk
+Create an *evil* user story by describing an attack scenario on an application. Keep in mind to cover abuse as well as misuse.
 
-- User stories focus on functionality, hence security as a non functional requirement is neglected.
-- Relevant security considerations are not performed.
-- Security flaws are discovered late in the development and deployment process, which results in security risk and rework.
+## Benefits
+
+- The team also deals with security requirements.
+- Relevant security considerations are performed.
+- Security flaws can be discovered or prevented early.
 
 ## Assessment
 
 - Show *n* user stories and their evil user story counterparts.
+- Show how the team considers the evil user stories during design and implementation.
+
+## Further Readings

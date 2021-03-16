@@ -1,13 +1,14 @@
-# Backup before deployment
+# Backup Before Deployment
 
 Changes to the application might corrupt its data. Preparations are being made to restore the data to a state before deployment.
 
-## Risk
+## Benefits
 
-- By deploying the application the database gets corrupted.
-- This results in downtime or customer data is lost.
+- Prevent corruption of the database during deployment, which could lead to downtime or loss of customer data.
 
 ## Assessment
 
 - Show preparations of your restore procedure for the last release.
 - Execute your restore procedure in a test environment.
+
+## Further Readings

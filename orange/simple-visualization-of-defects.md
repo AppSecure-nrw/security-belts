@@ -1,12 +1,20 @@
-# Simple visualization of defects
+# Simple Visualization of Defects
 
-Vulnerabilities are visible to all team members responsible for the affected component.
+Collect defects (e.g., vulnerabilities, bugs) of software components the team is responsible. Make these defects visible to all team members. The collection should be up to date and easy to understand for every team member.
 
-## Risk
+*Note*: Providing access to all team members is much more important than collecting all defects in one place.
 
-- The security level of a component is not visible. Therefore, the team sees no need in fixing vulnerabilities.
+## Benefits
+
+- The quality of all software components is visible.
+- The team is able to prioritize defects.
 
 ## Assessment
 
-- Show the security defect collection.
-- Show that every team member and the product owner has access.
+- Show all your defects.
+- Show that every team member has access.
+
+## Further Readings
+- Tool: [OWASP Defect Dojo](https://owasp.org/www-project-defectdojo/)
+- Tool: [Jenkins Next Generation Warnings plugin](https://plugins.jenkins.io/warnings-ng/)
+- Tool: [Grafana](https://grafana.com/)
