@@ -19,3 +19,4 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 - Tool: [Spotbugs](https://spotbugs.github.io/)
 - Tool: [SonarQube](https://www.sonarqube.org/)
 - Tool: [Amazon CodeGuru](https://aws.amazon.com/codeguru/)
+- Literature: [OWASP Testing Guide 4.9.4](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/04-Testing_for_Weak_Encryption.html)
