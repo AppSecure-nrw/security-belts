@@ -1,6 +1,6 @@
 # 2 - Yellow Belt
 
-The yellow belt introduces activities to automatically build and test the developed software and, as such, gives the team continuous high-level feedback on the current state of the developed software. It is recommended that every team achieves this belt.
+The yellow belt introduces activities to automatically build and test the developed software and, as such, gives the team continuous high-level feedback on its current state. It is recommended that every team achieves this belt.
 
 - [Continuous Integration](continuous-integration.md)
 - [Security Code Review](security-code-review.md)
