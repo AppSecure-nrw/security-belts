@@ -10,6 +10,9 @@ Provide all environment-dependent configuration as parameters. Avoid hard-coded 
 
 ## Assessment
 
--
+- TODO
+## Related Activities
+
+- [Same Artifact for Environments](../orange/same-artifact-for-environments.md)
 
 ## Further Readings
