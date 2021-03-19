@@ -2,7 +2,7 @@
 
 The maturity model *Security Belts* structures activities of the secure software development and, thus, offers development teams a good opportunity to address the topic and to build up necessary competencies to ensure the software security of their products. Thereby, the maturity model supports development teams that are overwhelmed with the duty to take over much more responsibility without having sufficient competencies in the team.
 
-For a deeper understanding of the model, please take a look in our [Wiki](https://github.com/AppSecure-nrw/security-belts/wiki).
+For detailed information on the methodology behind the model, please take a look at our [Wiki](https://github.com/AppSecure-nrw/security-belts/wiki).
 
 ## Belts
 
