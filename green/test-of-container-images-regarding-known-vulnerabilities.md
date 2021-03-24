@@ -16,7 +16,7 @@ Note that this can result in many found vulnerabilities. Check whether they are 
 - Show the latest *n* findings.
 - Show your false positive list.
 
-## Related Belt Activities
+## Related Activities
  - Container Update Enforcement (in development)
 
 ## Further Readings
