@@ -6,7 +6,7 @@ Provide all environment-dependent configuration as parameters. Avoid hard-coded 
 
 - No leakage of confidential data through compromised source code.
 - Changing configurations of your application does not require source code changes and redeployment.
-- Credentials are not located in the source code versioning tools
+- Credentials are not located in the version control system repositories.
 - The tested source code is the one which is deployed. No environment specific changes are required right before production deployment. Therefore, bugs introduced by these changes are prevented.
 
 ## Assessment
