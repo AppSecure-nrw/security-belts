@@ -14,7 +14,7 @@ Perform tests for known vulnerabilities in all software components used by your 
 - Show the latest *n* findings.
 - Show your false positive list.
 
-## Related Belt Activities
+## Related Activities
  - Container Update Enforcement (in development)
  - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
  
