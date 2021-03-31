@@ -9,9 +9,11 @@ Focus on fixing the most relevant defects without being overwhelmed of the poten
 
 ## Assessment
 
-- tbd
+- Show the fix for the latest *n* high criticality findings.
+- Show how you challenged the efficiency of the implemented fix.
 
 ## Related Activities
+
 - [False Positive Treatment](../yellow/false-positive-treatment.md)
 - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
 - [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
@@ -20,6 +22,6 @@ Focus on fixing the most relevant defects without being overwhelmed of the poten
 - [Nightly Test of Libraries With Known Vulnerabilities](../orange/nightly-test-of-libraries-with-known-vulnerabilities.md)
 - [Static analysis for all self-written components](static-analysis-for-all-self-written-components.md)
 
-
 ## Further Readings
-- tbd
+
+- [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/)
