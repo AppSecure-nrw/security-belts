@@ -1,11 +1,11 @@
 # Treatment of vulnerabilities with high criticality
 
-Focus on fixing the most relevant vulnerabilities without being overwhelmed of the potentially great number of low-impact findings. 
+Focus on fixing the most relevant vulnerabilities without being overwhelmed of the potentially great number of low-impact findings.
 
 ## Benefits
 
 - Prioritized treatment of most severe vulnerabilities.
-- The software is free of high-impact vulnerabilities, which decreases the chance of denial of service attacks and lost or manipulation of confidential data. 
+- The software is free of high-impact vulnerabilities, which decreases the chance of denial of service attacks and lost or manipulation of confidential data.
 
 ## Assessment
 
