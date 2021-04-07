@@ -22,3 +22,4 @@ Perform security tests against your cloud environments. These should include IAM
 ## Further Readings
 
 - Tool: [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
+- Tool: [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
