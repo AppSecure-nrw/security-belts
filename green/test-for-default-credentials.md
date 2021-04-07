@@ -1,11 +1,14 @@
 # Test for Default Credentials
 
-Test for default credentials within all services (frontend, database, etc.) of your product. Automate this test using existing tools to reduce your effort. 
+Test for default credentials within all services (frontend, database, etc.) of your product that are reachable within your network. Automate this test using existing tools within a testing environment. 
 
-**TODO:** Why is this in the green belt and not in orange? Benefit is high und Effort is low if your automate it. Or is the benefit low as most devs change them?
-**TODO:** Should we merge this activity with the yellow belt activity [Unit Tests for Security Features: Testing for Weak Password Policy](../yellow/unit-tests-for-security-features.md)? In this yellow belt activity, we already check for weak passworts - checking for default credentials is very similar.
+Be aware that accounts might get locked if your login attempt fails too many times and that intrusion detection alerts might be raised at your central security. Furthermore, both problems can already occur in your testing environment - depending on your it-security infrastructure. 
 
-**TODO:** Are there services with default credentials that are not analyzed by nmap or hydra? We assume that offline (non-http) services may need an extra script. If so: Your script shall contain all offline services that require credentials. Additionally, write down for each service what its default credential is.
+Note that we only focus on network attacks. Offline services may have also default credentials but if an attacker can access your offline files, then you have other problems than having weak credentials.
+
+**TODO:** Lars and Stefan agree: The benefit is very high but effort is currently medium. We need to check whether the effort is in fact medium. If it is less, this activity should be a orange one.  Questions we need to answer: How complex is it to run hydra? Does it need a full list of end points? How complex is it to set up a test environment that does not close all accounts and does not raise intrusion detection alerts? We need feedback for this. 
+
+**TODO:** Stefan asks: Is a week passwort check activity missing? We only have an activity in the yellow belt activity for the password policy: [Unit Tests for Security Features: Testing for Weak Password Policy](../yellow/unit-tests-for-security-features.md).
 
 ## Benefits
 - It is more complicated for attackers to gain access to one of your services. 
@@ -20,7 +23,7 @@ Test for default credentials within all services (frontend, database, etc.) of y
 ## Related Activities
 
 - [Unit Tests for Security Features: Testing for Weak Password Policy](../yellow/unit-tests-for-security-features.md)
-	- **TODO:** add Hydra to this one
+	- **TODO:** Lars and Stefan say: Explain in this activity better that it is not about weak password testing, but weak password policy testing.
 
 ## Further Readings
 
