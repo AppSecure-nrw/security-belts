@@ -16,7 +16,7 @@ Perform security assessments of your server side infrastructure components. Thes
 
 ## Related Activities
 
-- [Testing for Default Credentials](test-for-default-credentials)
+- [Testing for Default Credentials](test-for-default-credentials.md)
 - [Logging of Security Events](../orange/logging-of-security-events.md)
 
 ## Further Readings
