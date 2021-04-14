@@ -14,6 +14,10 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 - Show the latest *n* findings.
 - Show your false positive list.
 
+## Related Activities
+
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
+
 ## Further Readings
 - Tool: [Contrast](https://www.contrastsecurity.com/)
 - Tool: [Spotbugs](https://spotbugs.github.io/)
