@@ -9,7 +9,10 @@ Avoid hard-coded secrets (e.g., credentials) in application and infrastructure s
 
 ## Assessment
 
-- TODO
+- Show the usage of the tool(s).
+- Show the handling of the results.
+- Show the latest *n* findings.
+- Show your false positive list.
 
 ## Related Activities
 

@@ -18,6 +18,8 @@ Provide all environment-dependent configuration as parameters. Avoid hard-coded 
 ## Related Activities
 
 - [Same Artifact for Environments](../orange/same-artifact-for-environments.md)
+- [Prevent Secrets in Source Code](prevent-secrets-in-source-code.md)
 
 ## Further Readings
+
 - Tool: [SonarQube](https://www.sonarqube.org/)
