@@ -24,4 +24,4 @@ Focus on fixing the most relevant vulnerabilities without being overwhelmed of t
 
 ## Further Readings
 
-- [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/)
+- Literature: [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/)
