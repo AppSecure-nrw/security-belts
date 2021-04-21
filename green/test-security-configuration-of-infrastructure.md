@@ -24,3 +24,5 @@ Perform security assessments of your server side infrastructure components. Thes
 - Literature: [CIS Benchmark](https://www.cisecurity.org/cis-benchmarks/)
 - Literature: [BSI IT-Grundschutz-Bausteine](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/IT-Grundschutz-Kompendium/IT-Grundschutz-Bausteine/Bausteine_Download_Edition_node.html)
 - Tool: [InSpec](https://www.chef.io/products/chef-inspec)
+- Tool: [nessus](https://www.tenable.com/products/nessus)
+- Tool: [OpenVAS](https://www.openvas.org/)
