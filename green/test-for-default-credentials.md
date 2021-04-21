@@ -1,10 +1,11 @@
 # Test for Default Credentials
 
-Test for default credentials of privileged users within all used third party components (e.g., application server, database) of your product that are reachable over network.
+Test for default credentials of users within all used third party components (e.g., application server, database) of your product that are reachable over network.
 
 ## Benefits
 
 - Default credentials are a very easy way to access your third party components. By disabling those, your application becomes much more secure.
+- Default users have often privileged access.
 
 ## Assessment
 
