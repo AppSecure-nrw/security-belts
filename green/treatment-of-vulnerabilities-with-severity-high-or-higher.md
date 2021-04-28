@@ -15,7 +15,7 @@ Focus on fixing the most relevant vulnerabilities without being overwhelmed of t
 ## Related Activities
 
 - [False Positive Treatment](../yellow/false-positive-treatment.md)
-- [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
+- [Test of Containers Images Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
 - [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
 - [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 - [Test of Client Side Components With Known Vulnerabilities](../orange/test-of-client-side-components-with-known-vulnerabilities.md)
