@@ -5,7 +5,7 @@ Ensure that you only use software components (e.g., libraries, applications) whi
 ## Benefits
 
 - All software components are up-to-date and receive security patches for discovered vulnerabilities.
-- Modern technologies help to minimize your attack surface.
+- Newer technologies help to minimize your attack surface (e.g., use latest TLS version)
 - Simplifies effective implementation of other belt activities.
 
 ## Assessment
