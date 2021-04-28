@@ -4,7 +4,7 @@ The green belt introduces static code analysis as well as first activities ensur
 
 - [Test for Default Credentials](test-for-default-credentials.md)
 - [Prevent Secrets in Source Code](prevent-secrets-in-source-code.md)
-- [Environment-dependent configuration parameters](environment-dependent-configuration-parameters.md)
+- [Environment-Dependent Configuration Parameters](environment-dependent-configuration-parameters.md)
 - [Integration of vulnerability issues into the development process](integration-of-vulnerability-issues-into-the-development-process.md)
 - [Static analysis for all self-written components](static-analysis-for-all-self-written-components.md)
 - [Treatment of vulnerabilities with severity high or higher](treatment-of-vulnerabilities-with-severity-high-or-higher.md)
