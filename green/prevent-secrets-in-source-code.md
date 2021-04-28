@@ -16,7 +16,7 @@ Avoid hard-coded secrets (e.g., credentials) in application and infrastructure s
 
 ## Related Activities
 
-- [Environment-dependent configuration parameters](environment-dependent-configuration-parameters.md)
+- [Environment-Dependent Configuration Parameters](environment-dependent-configuration-parameters.md)
 
 ## Further Readings
 
