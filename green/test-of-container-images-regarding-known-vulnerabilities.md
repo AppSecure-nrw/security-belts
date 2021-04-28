@@ -16,7 +16,7 @@ Perform tests for known vulnerabilities in all container images used by your sof
 
 ## Related Activities
 
- - Container Update Enforcement (in development)
+ - Container Update Enforcement (in development)// TODO
 
 ## Further Readings
  - [Tool: JFrog Xray](https://jfrog.com/xray/)
