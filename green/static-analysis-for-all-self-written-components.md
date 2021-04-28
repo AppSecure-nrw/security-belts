@@ -1,4 +1,4 @@
-# Static analysis for all self-written components
+# Static Analysis for All Self-Written Components
 
 Use static code analysis tools to find security vulnerabilities in all self-written components.
 
