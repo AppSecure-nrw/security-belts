@@ -4,7 +4,7 @@ Perform nightly upgrades of all dependencies (e.g., libraries) within the build 
 
 ## Benefits
 
-- All software components are up-to-date and use dependencies without publicly known vulnerabilities.
+- All software components are up-to-date and use dependencies with all available fixes for publicly known vulnerabilities.
 - Immediate benefit of bugfixes within the dependencies.
 - Early notification of deprecated functionality used by your software. 
 
