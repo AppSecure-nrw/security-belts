@@ -5,7 +5,7 @@ Focus on fixing the most relevant vulnerabilities without being overwhelmed of t
 ## Benefits
 
 - Prioritized treatment of most severe vulnerabilities.
-- The software is free of high-impact vulnerabilities, which decreases the chance of denial of service attacks and lost or manipulation of confidential data.
+- The software is free of high-impact vulnerabilities, which decreases the chance of successful denial of service attacks and loss or manipulation of confidential data.
 
 ## Assessment
 
