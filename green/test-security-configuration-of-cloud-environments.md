@@ -1,4 +1,4 @@
-# Test security configuration of cloud environments
+# Test Security Configuration of Cloud Environments
 
 Perform security tests against your cloud environments. These should include IAM topics, logging/monitoring, access control, and system architecture.
 
