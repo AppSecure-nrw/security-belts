@@ -9,7 +9,7 @@ Focus on fixing the most relevant vulnerabilities without being overwhelmed of t
 
 ## Assessment
 
-- Show the fix for the latest *n* high criticality findings.
+- Show the fix for the latest *n* high severity findings.
 - Show how you challenged the efficiency of the implemented fix.
 
 ## Related Activities
