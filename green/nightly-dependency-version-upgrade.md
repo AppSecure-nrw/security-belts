@@ -20,4 +20,5 @@ Perform nightly upgrades of all dependencies (e.g., libraries) within the build 
 
 ## Further Readings
 
+- Tool: [Dependabot](https://dependabot.com/)
 - Literature: [OWASP Top Ten: 9. Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)
