@@ -1,4 +1,4 @@
-# Test security configuration of infrastructure
+# Test Security Configuration of Infrastructure
 
 Perform security assessments of your server side infrastructure components. These should include the operating system, middleware, application server, and database.
 
