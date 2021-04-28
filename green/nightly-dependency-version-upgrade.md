@@ -1,11 +1,11 @@
 # Nightly Dependency Version Upgrade
 
-Perform nightly upgrades of all libraries within the build process of your software. Validate the latest library updates and upgrade the new libraries in the repository after successful build and test process. 
+Perform nightly upgrades of all dependencies (e.g., libraries) within the build process of your software. Validate the latest dependency updates and upgrade the new dependencies in the repository after successful build and test process. 
 
 ## Benefits
 
-- All software components are up-to-date and use libraries without publicly known vulnerabilities.
-- Immediate benefit of bugfixes within the libraries. 
+- All software components are up-to-date and use dependencies without publicly known vulnerabilities.
+- Immediate benefit of bugfixes within the dependencies.
 - Early notification of deprecated functionality used by your software. 
 
 ## Assessment
@@ -16,6 +16,7 @@ Perform nightly upgrades of all libraries within the build process of your softw
 
 - [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
 - [Nightly Test of Libraries With Known Vulnerabilities](../orange/nightly-test-of-libraries-with-known-vulnerabilities.md)
+- [Test of Container Images Regarding Known Vulnerabilities](test-of-container-images-regarding-known-vulnerabilities.md)
 
 ## Further Readings
 
