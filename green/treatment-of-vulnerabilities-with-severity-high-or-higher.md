@@ -20,7 +20,7 @@ Focus on fixing the most relevant vulnerabilities without being overwhelmed of t
 - [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 - [Test of Client Side Components With Known Vulnerabilities](../orange/test-of-client-side-components-with-known-vulnerabilities.md)
 - [Nightly Test of Libraries With Known Vulnerabilities](../orange/nightly-test-of-libraries-with-known-vulnerabilities.md)
-- [Static analysis for all self-written components](static-analysis-for-all-self-written-components.md)
+- [Static Analysis for All Self-Written Components](static-analysis-for-all-self-written-components.md)
 
 ## Further Readings
 
