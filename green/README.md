@@ -12,4 +12,4 @@ The green belt introduces static code analysis as well as first activities ensur
 - [Test security configuration of cloud environments](test-security-configuration-of-cloud-environments.md)
 - [Test security configuration of infrastructure](test-security-configuration-of-infrastructure.md)
 - [Nightly Dependency Version Upgrade](nightly-dependency-version-upgrade.md)
-- [Ensure only using components which are under active development](ensure-only-using-components-which-are-under-active-development.md)
+- [Ensure Only Using Components Which Are Under Active Development](ensure-only-using-components-which-are-under-active-development.md)
