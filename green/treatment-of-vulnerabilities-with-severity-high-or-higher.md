@@ -1,4 +1,4 @@
-# Treatment of vulnerabilities with severity high or higher
+# Treatment of Vulnerabilities With Severity High or Higher
 
 Focus on fixing the most relevant vulnerabilities without being overwhelmed of the potentially great number of low-impact findings.
 
