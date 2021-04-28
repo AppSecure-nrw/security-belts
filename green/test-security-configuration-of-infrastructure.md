@@ -1,6 +1,6 @@
 # Test Security Configuration of Infrastructure
 
-Perform security assessments of your server side infrastructure components. These should include the operating system, middleware, application server, and database.
+Perform security assessments of your server side infrastructure components. These should include the operating system, middleware, application server, and database. Be aware that these components might be running inside docker containers.
 
 ## Benefits
 
