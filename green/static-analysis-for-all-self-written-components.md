@@ -1,6 +1,6 @@
 # Static Analysis for All Self-Written Components
 
-Use static code analysis tools to find security vulnerabilities in all self-written components.
+Use static code analysis tools to find security vulnerabilities in all self-written source code.
 
 ## Benefits
 
@@ -9,7 +9,7 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 
 ## Assessment
 
-- Show the tests and usage of the tool(s).
+- Show the usage of the tool(s).
 - Show the handling of the results.
 - Show the latest *n* findings.
 - Show your false positive list.
