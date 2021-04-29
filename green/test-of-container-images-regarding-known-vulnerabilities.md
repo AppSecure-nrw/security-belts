@@ -2,8 +2,6 @@
 
 Perform tests for known vulnerabilities in all container images used by your software. Use tools to automate your tests.
 
-Note that this can result in many found vulnerabilities. Check whether they are fixed in the next build of the container image. See related Belt Activity: Container Update Enforcement.
-
 ## Benefits
 
 - Known vulnerabilities in used containers are found and can be fixed.
@@ -16,11 +14,12 @@ Note that this can result in many found vulnerabilities. Check whether they are 
 - Show the latest *n* findings.
 - Show your false positive list.
 
-## Related Belt Activities
- - Container Update Enforcement (in development)
+## Related Activities
+
+ - Container Update Enforcement (in development)// TODO
 
 ## Further Readings
- - [Tool: JFrog Xray](https://jfrog.com/xray/)
- - [Tool: Anchore](https://anchore.com/)
- - [Tool: Clair](https://github.com/quay/clair/releases)
- 
+ - Tool: [JFrog Xray](https://jfrog.com/xray/)
+ - Tool: <!-- markdown-link-check-disable -->[Anchore](https://anchore.com/)<!-- markdown-link-check-enable -->
+ - Tool: [Clair](https://github.com/quay/clair/releases)
+

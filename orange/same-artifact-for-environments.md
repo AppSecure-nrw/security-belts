@@ -12,6 +12,6 @@ Build your artifacts only once. Use the same artifact for testing as well as for
   - build
   - deploy in a test environment
   - deploy in the production environment
-- Show all configuration parameters off your artifact.
+- Show all configuration parameters of your artifact.
 
 ## Further Readings
