@@ -4,7 +4,7 @@ Define quality gates adhering to your companies policy. Make sure that all requi
 
 Be aware, by introducing this activity you might have a backlog with many findings from the past.
 Provide transparency about this backlog and continuously fix the reported issues. Start with the most critical ones.
-Make sure to adhere to the policy from now on and do not introduce new findings to your backlog.
+Make sure to adhere to the policy from now on and do not introduce additional findings through code changes.
 
 ## Benefits
 
@@ -20,4 +20,5 @@ Make sure to adhere to the policy from now on and do not introduce new findings 
 - Show how you handle false positives.
 
 ## Further Readings
+
 - Tool: [Jenkins Next Generation Warnings plugin](https://plugins.jenkins.io/warnings-ng/)
