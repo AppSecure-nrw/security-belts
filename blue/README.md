@@ -10,7 +10,6 @@ Awareness
 - [ ] Approval by reviewing any new version // Code Review on all changes (Yellow Security Code review: add 'on each code change')
   - *requires* Security Champion knowledge
 - [ ] PII (personally identifiable information) logging concept
-- [ ] Load tests
 - [ ] Testing for Bypassing Authentication Schema
   - *tools* gobuster, dirbuster
   - use OpenAPI
