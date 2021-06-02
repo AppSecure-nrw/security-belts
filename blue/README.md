@@ -15,3 +15,7 @@ Awareness
 - [ ] Advanced Mob-Hacking
   - include usage of tools like Burp
 
+
+
+Risk: Personal identifiable information (PII) is logged and the law of GDPR is not followed.
+Opportunity: A concept how to log PII is documented and applied.
