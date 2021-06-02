@@ -1,6 +1,22 @@
 # Follow Security by Design Principles
 
-Get to know Security by Design Principles. Build a common understanding within the team on how to implement these principles and integrate them into your development process.
+Get to know the following Security by Design Principles: 
+- Least Privilege 
+- Defense in Depth
+- Fail securely (Fail-safe Defaults)
+- No security by obscurity (Open Design // Kerckhoff's Principle)
+- Detect and Record
+- Don't trust (Be Reluctant to Trust //  Trust but verify)
+- Keep It Simple
+- Secure the Weakest Link
+- Compartmentalization // Decomposition
+- Separation of Privilege
+- Use secure defaults
+- Never invent security technology (Do not reinvent the wheel (e.g., do not build own Parser, Unparser, Crypto, Data languages, protocols)
+- Don't trust your supply chain (Use mainstream technology like OpenAPI for REST)
+
+Build a common understanding within the team on how to implement these principles and integrate them into your development process. 
+
 
 ## Benefits
 
@@ -11,7 +27,7 @@ Get to know Security by Design Principles. Build a common understanding within t
 
 ## Assessment
 
-- Show the principles you use and explain them.
+- Explain the different Security by Design Principles. Each member of the team shall explain at least one principle. 
 - Show (in code) how you implemented the principles.
 
 ## Examples
