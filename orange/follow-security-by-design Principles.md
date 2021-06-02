@@ -5,7 +5,7 @@ Get to know the following Security by Design Principles:
 - Defense in Depth
 - Fail securely (Fail-safe Defaults)
 - No security by obscurity (Open Design // Kerckhoff's Principle)
-- Detect and Record
+- [Detect and Record](logging-of-security-events.md)
 - Don't trust (Be Reluctant to Trust //  Trust but verify)
 - Keep It Simple
 - Secure the Weakest Link
@@ -42,7 +42,7 @@ When implementing this principle:
 
 ## Further Readings
 
-- TODO
+- TODO #64
 - [Secure the Weakest Link: Medium Page 5]()
 - https://medium.com/ouspg/security-design-with-principles-a8c045765b93
 - https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf
