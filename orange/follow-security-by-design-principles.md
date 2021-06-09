@@ -1,7 +1,7 @@
 # Follow Security by Design Principles
 
 Get to know the following Security by Design Principles: 
-- Least Privilege 
+- [Least Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#least-privilege)
 - Defense in Depth
 - Fail securely (Fail-safe Defaults)
 - No security by obscurity (Open Design // Kerckhoff's Principle)
