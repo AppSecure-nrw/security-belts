@@ -1,21 +1,21 @@
 # Follow Security by Design Principles
 
-Get to know the following Security by Design Principles: 
+Get to know the following Security by Design Principles:
 - [Least Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#least-privilege)
-- Defense in Depth
-- Fail securely (Fail-safe Defaults)
-- No security by obscurity (Open Design // Kerckhoff's Principle)
-- Detect and Record
-- Don't trust (Be Reluctant to Trust //  Trust but verify)
-- Keep It Simple
-- Secure the Weakest Link
-- Compartmentalization // Decomposition
-- Separation of Privilege
-- Use secure defaults
-- Don't invent security technology (Do not reinvent the wheel (e.g., do not build own Parser, Unparser, Crypto, Data languages, protocols)
-- Don't trust your supply chain (Use mainstream technology like OpenAPI for REST)
+- [Defense in Depth](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#defense-in-depth)
+- [Fail Securely](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#fail-securely)
+- [No Security by Obscurity](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#no-security-by-obscurity)
+- [Detect and Record](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#detect-and-record)
+- [Don't Trust](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust)
+- [Keep It Simple](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#keep-it-simple)
+- [Secure the Weakest Link](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#secure-the-weakest-link)
+- [Decomposition](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#decomposition)
+- [Separation of Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#separation-of-privilege)
+- [Use Secure Defaults](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#use-secure-defaults)
+- [Don't Reinvent the Wheel](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-reinvent-the-wheel)
+- [Don't Trust Your Supply Chain](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust-your-supply-chain)
 
-Build a common understanding within the team on how to implement these principles and integrate them into your development process. 
+Build a common understanding within the team on how to implement these principles and integrate them into your development process.
 
 ## Benefits
 
@@ -26,7 +26,7 @@ Build a common understanding within the team on how to implement these principle
 
 ## Assessment
 
-- Explain the different Security by Design Principles. Each member of the team shall explain at least one principle. 
+- Explain the different Security by Design Principles. Each member of the team shall explain at least one principle.
 - Show (in code) how your implementation follows the principles.
 
 ## Examples
