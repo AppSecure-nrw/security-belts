@@ -12,7 +12,7 @@ Get to know the following Security by Design Principles:
 - Compartmentalization // Decomposition
 - Separation of Privilege
 - Use secure defaults
-- Never invent security technology (Do not reinvent the wheel (e.g., do not build own Parser, Unparser, Crypto, Data languages, protocols)
+- Don't invent security technology (Do not reinvent the wheel (e.g., do not build own Parser, Unparser, Crypto, Data languages, protocols)
 - Don't trust your supply chain (Use mainstream technology like OpenAPI for REST)
 
 Build a common understanding within the team on how to implement these principles and integrate them into your development process. 
