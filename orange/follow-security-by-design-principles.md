@@ -39,6 +39,10 @@ When implementing this principle:
 - Configure middleware like application servers to not return version numbers, stacktrace, and technical error messages.
 - When receiving a malformed HTTP request, reject it rather than guessing the intended content.
 
+## Related Activities
+
+- [Security Code Review](../yellow/security-code-review.md)
+
 ## Further Readings
 
 - [Security design with principles](https://medium.com/ouspg/security-design-with-principles-a8c045765b93)
