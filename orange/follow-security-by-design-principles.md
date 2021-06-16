@@ -22,7 +22,7 @@ Build a common understanding within the team on how to implement these principle
 - The team has a common language and understanding of security principles.
 - Leverage proven security strategies to improve the resilience of your system.
 - Relevant security considerations are performed.
-- Security flaws can be discovered or prevented early.
+- Security flaws can be discovered or prevented already in the design.
 
 ## Assessment
 
