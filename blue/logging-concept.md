@@ -1,7 +1,6 @@
 # Logging Concept
 
 Create a logging concept considering the following aspects:
-- What kind of information do you want/have to log?
 - Which data classification does your log data have?
   - Does your data include PII (personally identifiable information)?
 - Which regulatory requirements apply to your software?
@@ -13,13 +12,15 @@ Create a logging concept considering the following aspects:
 
 ## Benefits
 
-- Trustworthy log data.
-- Content aware logging of data.
-- TODO
+- Appropriate protection of log data.
+- Trustworthy log data: You reliably know what your application did last summer.
+- In case of an incident, you can comprehend the actions performed by the attacker(s).
 
 ## Assessment
 
-- TODO
+- Present the implementation of your concept, answering the questions above.
+- Show the oldest irregularity in your logs.
+- Are you sure it is legal to log this data?
 
 ## Related Activities
 
@@ -27,3 +28,5 @@ Create a logging concept considering the following aspects:
 - [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
 
 ## Further Readings
+
+- Literature: [GDPR](https://gdpr.eu/)

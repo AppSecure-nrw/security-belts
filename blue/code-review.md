@@ -19,6 +19,7 @@ Perform code reviews of all code changes on software and infrastructure within t
 
 - [Security Code Review](../yellow/security-code-review.md)
 - [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
+- [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
 
 ## Further Readings
 
