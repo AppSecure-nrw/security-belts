@@ -11,7 +11,7 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [1 - White Belt](white/README.md)
 - [2 - Yellow Belt](yellow/README.md)
 - [3 - Orange Belt](orange/README.md)
-- [4 - Green Belt [work in progress]](green/README.md)
+- [4 - Green Belt](green/README.md)
 - [5 - Blue Belt](blue/README.md)
 - 6 - Purple Belt
 - 7 - Red Belt

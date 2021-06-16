@@ -1,6 +1,10 @@
 # Definition of Quality Gates
 
-Define quality gates adhering to your companies policy. Make sure that all requirements are fulfilled. Also define quality gates for found vulnerabilities and provide feedback about vulnerabilities and time of exposure.
+Define quality gates adhering to your companies policy. Make sure that all requirements are fulfilled. Also define quality gates for found vulnerabilities and provide feedback about vulnerabilities and time of exposure, i.e., break the CI build.
+
+Be aware, by introducing this activity, you might have a backlog with many findings from the past.
+Provide transparency about this backlog and continuously fix the reported issues. Start with the most critical ones.
+Make sure to adhere to the policy from now on and do not introduce additional findings through code changes.
 
 ## Benefits
 
@@ -15,5 +19,10 @@ Define quality gates adhering to your companies policy. Make sure that all requi
 - Show your current exposure.
 - Show how you handle false positives.
 
+## Related Activities
+
+- [Continuous Integration](continuous-integration.md)
+
 ## Further Readings
+
 - Tool: [Jenkins Next Generation Warnings plugin](https://plugins.jenkins.io/warnings-ng/)
