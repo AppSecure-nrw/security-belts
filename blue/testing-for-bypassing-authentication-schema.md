@@ -1,8 +1,8 @@
 # Testing for Bypassing Authentication Schema
 
 A common mistake is to assume that authenticating a user only on the main page is sufficient and other locations don't require authentication, because every access occures via the main page.
-Test that all resources deliverd by your application require authentication, exept for the public ones.
-Leaverage API specifications like OpenAPI to discover all endpoints of your application.
+Test that all resources delivered by your application require authentication, except for the public ones.
+Leverage API specifications like OpenAPI to discover all endpoints of your application.
 In case you don't have white-box information about the application, use tools to discover and access resources, e.g., gobuster or dirbuster.
 
 ## Benefits
@@ -12,10 +12,10 @@ In case you don't have white-box information about the application, use tools to
 
 ## Assessment
 
+- Show your tests.
 - Show the usage of the tool(s).
 - Show the handling of the results.
-- Show the latest *n* findings.
-- Show your false positive list.
+
 
 ## Related Activities
 
