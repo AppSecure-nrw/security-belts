@@ -9,3 +9,4 @@ The yellow belt introduces activities to automatically build and test the develo
 - [Definition of Quality Gates](definition-of-quality-gates.md)
 - [False Positive Treatment](false-positive-treatment.md)
 - [Unit Tests for Security Features](unit-tests-for-security-features.md)
+- [Simple Mob Hacking](simple-mob-hacking.md)
