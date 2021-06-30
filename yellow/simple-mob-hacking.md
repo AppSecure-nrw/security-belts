@@ -8,7 +8,7 @@ Guidelines for your simple mob hacking session:
 - All exploits happen via the user interface.
 - No need for security/hacking tools.
 - No need for deep technical or security knowledge.
-- Use an insecure training app, e.g., [DVWA](https://dvwa.co.uk/) or [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
+- Use an insecure training app, e.g., [DVWA](https://dvwa.co.uk/)
 - Encourage active participation, e.g., use small groups.
 - Allow enough time for everyone to run at least one exploit.
 
