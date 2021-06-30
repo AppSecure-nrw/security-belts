@@ -16,7 +16,6 @@ In case you don't have white-box information about the application, use tools to
 - Show the usage of the tool(s).
 - Show the handling of the results.
 
-
 ## Related Activities
 
 - [Security Code Review](../yellow/security-code-review.md) reviews the authentication and authorization concept and implementation.

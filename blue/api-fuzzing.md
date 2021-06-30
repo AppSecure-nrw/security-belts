@@ -21,6 +21,7 @@ Perform API fuzzing regarding parameter names, malicious values and unknown endp
 
 ## Further Readings
 
+- Literature: [Fuzzing](https://owasp.org/www-community/Fuzzing)
 - Tool: [Burp](https://portswigger.net/burp)
 - Tool: [OWASP ZAP](https://www.zaproxy.org/)
 - Tool: [ffuf](https://github.com/ffuf/ffuf)

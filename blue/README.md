@@ -1,21 +1,14 @@
 # 5 - Blue Belt
 
-TODO
+The blue belt introduces activities to gain a deeper understanding of the behavior of your developed software.
+You learn advanced methods and tools for identifying and exploiting vulnerabilities regarding design and implementation flaws.
 
-DAST
-Threat Modeling
-Awareness
-
-
-- [ ] PII (personally identifiable information) logging concept
-- [ ] Testing for Bypassing Authentication Schema
-  - *tools* gobuster, dirbuster
-  - use OpenAPI
-  - [OWASP Testing Guide 4.4.4](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/04-Testing_for_Bypassing_Authentication_Schema.html)
-- [ ] Advanced Mob-Hacking
-  - include usage of tools like Burp
-
-
-
-Risk: Personal identifiable information (PII) is logged and the law of GDPR is not followed.
-Opportunity: A concept how to log PII is documented and applied.
+- [Code Review](code-review.md)
+- [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
+- [Get to Know Your Design Flaws](get-to-know-your-design-flaws.md)
+- [Basic Scan](basic-scan.md)
+- [API Fuzzing](api-fuzzing.md)
+- [Regular Advanced Mob Hacking](regular-advanced-mob-hacking.md)
+- [Load Tests](load-tests.md)
+- [Logging Concept](logging-concept.md)
+- [Testing for Bypassing Authentication Schema](testing-for-bypassing-authentication-schema.md)
