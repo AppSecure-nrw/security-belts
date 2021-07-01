@@ -1,6 +1,8 @@
 # Test for Default Credentials
 
-Test for default credentials of users within all used third party components (e.g., application server, database) of your product that are reachable over network.
+## Activities
+
+- Test for default credentials of users within all used third party components (e.g., application server, database) of your product that are reachable over network.
 
 ## Benefits
 

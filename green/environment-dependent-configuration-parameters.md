@@ -1,6 +1,9 @@
 # Environment-Dependent Configuration Parameters
 
-Provide all environment-dependent configuration as parameters. Avoid hard-coded environment-dependent data (e.g., credentials, paths) in application and infrastructure source code.
+## Activities
+
+- Provide all environment-dependent configuration as parameters.
+- Avoid hard-coded environment-dependent data (e.g., credentials, paths) in application and infrastructure source code.
 
 ## Benefits
 

@@ -1,6 +1,8 @@
 # Regular Security Training for Everyone
 
-Attend security SDLC trainings with the team on a regular basis.
+## Activities
+
+- Attend security SDLC trainings with the team on a regular basis.
 
 ## Benefits
 

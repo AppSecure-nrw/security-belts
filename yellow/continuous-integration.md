@@ -1,6 +1,8 @@
 # Continuous Integration
 
-Use continuous automated building and testing of the software.
+## Activities
+
+- Use continuous automated building and testing of the software.
 
 ## Benefits
 

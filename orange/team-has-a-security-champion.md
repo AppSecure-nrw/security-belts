@@ -1,6 +1,8 @@
 # Team has a Security Champion
 
-Find and train a [Security Champion](https://github.com/AppSecure-nrw/security-belts#security-champion) from within the team.
+## Activities
+
+- Find and train a [Security Champion](https://github.com/AppSecure-nrw/security-belts#security-champion) from within the team.
 
 *Note*: The Security Champion should be a volunteer interested in software security. Just forcing someone to take the role is worse than having no Security Champion.
 

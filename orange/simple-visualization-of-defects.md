@@ -1,6 +1,10 @@
 # Simple Visualization of Defects
 
-Collect defects (e.g., vulnerabilities, bugs) of software components the team is responsible. Make these defects visible to all team members. The collection should be up to date and easy to understand for every team member.
+## Activities
+
+- Collect defects (e.g., vulnerabilities, bugs) of software components the team is responsible.
+- Make these defects visible to all team members.
+- The collection should be up to date and easy to understand for every team member.
 
 *Note*: Providing access to all team members is much more important than collecting all defects in one place.
 

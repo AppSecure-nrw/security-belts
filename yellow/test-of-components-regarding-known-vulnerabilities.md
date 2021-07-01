@@ -1,6 +1,8 @@
 # Test of Components Regarding Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all software components used by your software (e.g., libraries, but not containers (see related belt activity)).
+## Activities
+
+- Perform tests for known vulnerabilities in all software components used by your software (e.g., libraries, but not containers (see related belt activity)).
 
 ## Benefits
 

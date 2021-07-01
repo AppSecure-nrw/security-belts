@@ -1,6 +1,9 @@
 # False Positive Treatment
 
-Suppress false positives so that they will not show up on the next tests again. This will help you to see the real vulnerabilities (not hidden among many many false positives anymore).
+## Activities
+
+- Suppress false positives so that they will not show up on the next tests again.
+- This will help you to see the real vulnerabilities (not hidden among many many false positives anymore).
 
 For suppressions:
 - Document a reasonable justification (use the locality principle: as close to the code as possible).

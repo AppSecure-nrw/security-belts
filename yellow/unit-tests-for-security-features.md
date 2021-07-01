@@ -1,6 +1,8 @@
 # Unit Tests for Security Features
 
-Test functionality of security-related features like authentication, and authorization with unit tests.
+## Activities
+
+- Test functionality of security-related features like authentication, and authorization with unit tests.
 
 ## Benefits
 
@@ -18,13 +20,13 @@ Test functionality of security-related features like authentication, and authori
   1. test for known passwords like $company2021, admin, $projcetName, 123456, aaa
   1. test for [breached passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
 - [4.5.3 Testing for Privilege Escalation](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/05-Authorization_Testing/03-Testing_for_Privilege_Escalation.html)
-  1. Acquire a session for a normal user. 
-  1. Access admin functionality that the user should not be able to access. Use different values for all request parameters. 
-     - For each parameter define valid and invalid values. 
-     - Create tests for all combinations      
+  1. Acquire a session for a normal user.
+  1. Access admin functionality that the user should not be able to access. Use different values for all request parameters.
+     - For each parameter define valid and invalid values.
+     - Create tests for all combinations
   1. Fail the test if you have access
 - [4.5.4 Testing for Insecure Direct Object References](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References.html)
-  1. Acquire a session for a normal user. 
+  1. Acquire a session for a normal user.
   1. Get a reference to a document or resource accessible only by the user.
   1. Acquire a second session for another user.
   1. Use the reference to access the document or resource.

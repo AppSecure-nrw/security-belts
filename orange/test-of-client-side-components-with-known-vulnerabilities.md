@@ -1,6 +1,9 @@
 # Test of Client Side Components With Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all third party client side software components (e.g., libs and frameworks) used by your software. If possible, use tools to automate this task as much as possible.
+## Activities
+
+- Perform tests for known vulnerabilities in all third party client side software components (e.g., libs and frameworks) used by your software.
+- If possible, use tools to automate this task as much as possible.
 
 ## Benefits
 

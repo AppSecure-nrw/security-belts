@@ -1,6 +1,11 @@
 # Shared Security Services
 
-Do not reinvent the wheel. Prefer shared security services and components over implementing security controls yourself. Challenge that these services perform well and secure. Furthermore, make deficiencies transparent.
+## Activities
+
+- Do not reinvent the wheel.
+- Prefer shared security services and components over implementing security controls yourself.
+- Challenge that these services perform well and secure.
+- Furthermore, make deficiencies transparent.
 
 ## Benefits
 

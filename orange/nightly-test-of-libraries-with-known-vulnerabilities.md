@@ -1,6 +1,8 @@
 # Nightly Test of Libraries With Known Vulnerabilities
 
-Perform nightly tests for known vulnerabilities in all libraries used by your software.
+## Activities
+
+- Perform nightly tests for known vulnerabilities in all libraries used by your software.
 
 ## Benefits
 

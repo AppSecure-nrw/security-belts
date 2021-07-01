@@ -1,6 +1,9 @@
 # Ensure Only Using Components Which Are Under Active Development
 
-Ensure that you only use software components (e.g., libraries, applications) which are under active development. This also includes migrating software **before** it reaches end of life / support.
+## Activities
+
+- Ensure that you only use software components (e.g., libraries, applications) which are under active development.
+- This also includes migrating software **before** it reaches end of life / support.
 
 ## Benefits
 

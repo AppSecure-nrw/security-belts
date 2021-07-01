@@ -1,6 +1,9 @@
 # Don't Start Alone
 
-When implementing a security belt activity, approach a peer from the Security Champion Guild to get you started. Schedule a meeting to ensure you both work on nothing else.
+## Activities
+
+- When implementing a security belt activity, approach a peer from the Security Champion Guild to get you started.
+- Schedule a meeting to ensure you both work on nothing else.
 
 ## Benefits
 

@@ -1,6 +1,9 @@
 # Test of Container Images Regarding Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all container images used by your software. Use tools to automate your tests.
+## Activities
+
+- Perform tests for known vulnerabilities in all container images used by your software.
+- Use tools to automate your tests.
 
 ## Benefits
 

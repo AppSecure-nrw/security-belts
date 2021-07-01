@@ -1,6 +1,10 @@
 # Backup Before Deployment
 
-Changes to the application might corrupt its data. Preparations are being made to restore the data to a state before deployment.
+Changes to the application might corrupt its data.
+
+## Activities
+
+- Perform preparations to restore the data to a pre-deployment state.
 
 ## Benefits
 
