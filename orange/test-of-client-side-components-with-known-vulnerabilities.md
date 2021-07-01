@@ -17,6 +17,12 @@
 - Show the latest *n* findings.
 - Show your false positive list.
 
+## Related Activities
+
+- [Continuous Integration](../yellow/continuous-integration.md)
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
+- [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
+
 ## Further Readings
 
 - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check)

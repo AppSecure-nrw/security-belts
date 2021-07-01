@@ -19,7 +19,8 @@
 
 ## Related Activities
 
- - Container Update Enforcement (in development)// TODO
+- [Continuous Integration](../yellow/continuous-integration.md)
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
 
 ## Further Readings
 

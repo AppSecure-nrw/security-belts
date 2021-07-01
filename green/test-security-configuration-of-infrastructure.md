@@ -20,6 +20,7 @@
 
 ## Related Activities
 
+- [Continuous Integration](../yellow/continuous-integration.md)
 - [Test for Default Credentials](test-for-default-credentials.md)
 - [Logging of Security Events](../orange/logging-of-security-events.md)
 

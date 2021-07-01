@@ -16,7 +16,7 @@
 
 ## Related Activities
 
-- [Test of Components Regarding Known Vulnerabilities from yellow belt](../yellow/test-of-components-regarding-known-vulnerabilities.md)
+- [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
 
 ## Further Readings
 

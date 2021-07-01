@@ -18,8 +18,9 @@
 
 ## Related Activities
 
- - Container Update Enforcement (in development)
- - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
+- [Continuous Integration](../yellow/continuous-integration.md)
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
+- [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
 
 ## Further Readings
 

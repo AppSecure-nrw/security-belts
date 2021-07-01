@@ -19,6 +19,7 @@
 
 ## Related Activities
 
+- [Continuous Integration](../yellow/continuous-integration.md)
 - [Test for Default Credentials](test-for-default-credentials.md)
 - [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 

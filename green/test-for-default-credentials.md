@@ -15,6 +15,10 @@
 - Show the handling of the results.
 - Show the latest *n* findings.
 
+## Related Activities
+
+- [Continuous Integration](../yellow/continuous-integration.md)
+
 ## Further Readings
 
 - Tool: [Hydra](https://github.com/vanhauser-thc/thc-hydra)
