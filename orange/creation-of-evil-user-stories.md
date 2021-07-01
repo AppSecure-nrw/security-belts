@@ -19,5 +19,3 @@ Create an *evil* user story by describing an attack scenario on an application. 
 
 - Show *n* user stories and their evil user story counterparts.
 - Show how the team considers the evil user stories during design and implementation.
-
-## Further Readings

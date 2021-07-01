@@ -15,8 +15,10 @@ Perform tests for known vulnerabilities in all software components used by your 
 - Show your false positive list.
 
 ## Related Activities
+
  - Container Update Enforcement (in development)
  - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
- 
+
 ## Further Readings
+
  - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)

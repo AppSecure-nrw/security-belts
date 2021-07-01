@@ -25,5 +25,3 @@ Some example conferences that offer trainings:
 - BlackHat
 - SecAppDev
 - HITB
-
-## Further Readings

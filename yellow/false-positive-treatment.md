@@ -18,7 +18,6 @@ For suppressions:
 - Provide your justifications for your false positives and explain some of them.
 
 ## Related Activities
+
 - [Security Consulting on Request](security-consulting-on-request.md)
 - [Security Code Review](security-code-review.md)
-
-## Further Readings

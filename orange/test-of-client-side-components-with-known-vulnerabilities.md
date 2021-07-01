@@ -15,6 +15,7 @@ Perform tests for known vulnerabilities in all third party client side software 
 - Show your false positive list.
 
 ## Further Readings
+
 - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check)
 - Tool: [Retire.js](https://retirejs.github.io/retire.js)
 - Literature: [OWASP Top Ten: 9. Using Components with Known Vulnerabilities](https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities)

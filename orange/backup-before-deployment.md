@@ -10,5 +10,3 @@ Changes to the application might corrupt its data. Preparations are being made t
 
 - Show preparations of your restore procedure for the last release.
 - Execute your restore procedure in a test environment.
-
-## Further Readings

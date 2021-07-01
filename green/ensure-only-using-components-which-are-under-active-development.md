@@ -17,5 +17,3 @@ Ensure that you only use software components (e.g., libraries, applications) whi
 ## Related Activities
 
 - [Nightly Dependency Version Upgrade](nightly-dependency-version-upgrade.md)
-
-## Further Readings

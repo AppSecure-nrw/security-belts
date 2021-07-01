@@ -7,5 +7,3 @@ Let the Security Champion Guild review your implementations of security belt act
 - The quality of the implementation is increased.
 - Successes can be celebrated intermediately.
 - Early feedback before the belt assessment.
-
-## Further Readings

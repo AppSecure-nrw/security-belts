@@ -19,6 +19,7 @@ Perform tests for known vulnerabilities in all container images used by your sof
  - Container Update Enforcement (in development)// TODO
 
 ## Further Readings
+
  - Tool: [JFrog Xray](https://jfrog.com/xray/)
  - Tool: <!-- markdown-link-check-disable -->[Anchore](https://anchore.com/)<!-- markdown-link-check-enable -->
  - Tool: [Clair](https://github.com/quay/clair/releases)

@@ -15,5 +15,3 @@ To estimate, take a look at:
 
 - The team is motivated by a given goal for their journey.
 - It is easier for the team to track their progress with a finish line ahead.
-
-## Further Readings
