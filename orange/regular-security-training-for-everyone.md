@@ -2,7 +2,7 @@
 
 ## Activities
 
-- Attend security SDLC trainings with the team on a regular basis.
+- Attend security *Software Development Life Cycle* (SDLC) trainings with the team on a regular basis.
 
 ## Benefits
 
