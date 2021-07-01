@@ -20,13 +20,13 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - 8 - Brown Belt
 - 9 - Black Belt
 
-## Getting Started 
+## Getting Started
 
 This getting started is primarily aimed at developers.
 
 - Become familiar with our [Security Belts concepts](https://github.com/AppSecure-nrw/security-belts/wiki/The-Concept) such that you can explain them to your colleagues. In the future, we will provide slides to ease this task.
-- Identify colleagues (developers, product owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company.
-- Convince your product owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
+- Identify colleagues (developers, Product Owners, managers) in your company that already want to improve the secure software development. They can discuss with you how to implement security belts in your company.
+- Convince your Product Owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
 - Persuade your PO and team to start working on the belts by showing the results of your assessment.
 - Let your PO be proud: He/She shall report to the top-management that you improve your software security.
 
@@ -40,8 +40,8 @@ Before any team can achieve a specific belt, the [Security Champion Guild](https
 
 The Security Belts are based on the [OWASP DevSecOps Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/) and partially inspired by [OWASP SAMM](https://owasp.org/www-project-samm/)
 
-This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379). 
+This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379).
 <br/>
   <br/><img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Logo_48_lang_Zeichenfl%C3%A4che%201.png" alt="AppSecure.nrw Logo" height="50"/>
-  
+
 <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/EFRE_Foerderhinweis_englisch_farbig.jpg" alt="EFRE Logo" height="50"/> <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Ziel2NRW_RGB_1809_jpg.jpg" alt="Ziel2NRW Logo" height="50"/>
