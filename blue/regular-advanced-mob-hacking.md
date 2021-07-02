@@ -1,9 +1,10 @@
 # Regular Advanced Mob Hacking
 
-Developers of your team participate in mob hacking sessions - organized by the Security Champion Guild - on a regular basis.
-The goal of the sessions is to train the identification and exploitation of vulnerabilities,
-which mainly happens using an intercept proxy directly in the http request/response.
-Just like in mob programming there is one driver and several navigators.
+## Activities
+
+- Developers of your team participate in mob hacking sessions - organized by the Security Champion Guild - on a regular basis.
+- The goal of the sessions is to train the identification and exploitation of vulnerabilities, which mainly happens using an intercept proxy directly in the http request/response.
+- Just like in mob programming there is one driver and several navigators.
 
 Guidelines for your advanced mob hacking session:
 - Basic technical and security knowledge is required.

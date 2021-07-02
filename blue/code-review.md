@@ -1,6 +1,10 @@
 # Code Review
 
-Perform code reviews of all code changes on software and infrastructure within the team. Make sure that only approved changes are merged to your main branch within your version control system. A common solution is the use of pull requests in GitHub.
+## Activities
+
+- Perform code reviews of all code changes on software and infrastructure within the team.
+- Make sure that only approved changes are merged to your main branch within your version control system.
+- A common solution is the use of pull requests in GitHub.
 
 ## Benefits
 

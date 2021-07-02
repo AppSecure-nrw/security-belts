@@ -1,6 +1,8 @@
 # API Fuzzing
 
-Perform API fuzzing regarding parameter names, malicious values and unknown endpoints.
+## Activities
+
+- Perform API fuzzing regarding parameter names, malicious values and unknown endpoints.
 
 ## Benefits
 

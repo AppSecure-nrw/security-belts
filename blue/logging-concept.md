@@ -1,5 +1,7 @@
 # Logging Concept
 
+## Activities
+
 Create a logging concept considering the following aspects:
 - Which data classification does your log data have?
   - Does your data include PII (personally identifiable information)?

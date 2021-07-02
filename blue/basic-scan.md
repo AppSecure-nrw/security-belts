@@ -1,6 +1,8 @@
 # Basic Scan
 
-Use dynamic security scanning tools to find security vulnerabilities in all components of your product.
+## Activities
+
+- Use dynamic security scanning tools to find security vulnerabilities in all components of your developed software.
 
 ## Benefits
 

@@ -1,6 +1,8 @@
 # Load Tests
 
-Analyse your specific load requirements and perform corresponding load tests against your application and infrastructure components.
+## Activities
+
+- Analyse your specific load requirements and perform corresponding load tests against your application and infrastructure components.
 
 ## Benefits
 
@@ -16,7 +18,7 @@ Analyse your specific load requirements and perform corresponding load tests aga
 
 ## Related Activities
 
-- TODO Security by Design
+- [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
 
 ## Further Readings
 
