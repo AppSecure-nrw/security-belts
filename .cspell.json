@@ -24,6 +24,8 @@
     "nmap",
     "Anchore",
     "Grundschutz",
-    "Bausteine"
+    "Bausteine",
+    "Threagile",
+    "ffuf"
   ]
 }
