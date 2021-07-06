@@ -1,5 +1,5 @@
+![GitHub release](https://img.shields.io/github/v/release/AppSecure-nrw/security-belts)
 ![Check Markdown Links](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml/badge.svg)
-
 # Security Belts
 
 The maturity model *Security Belts* structures activities of the secure software development and, thus, offers development teams a good opportunity to address the topic and to build up necessary competencies to ensure the software security of their products. Thereby, the maturity model supports development teams that are overwhelmed with the duty to take over much more responsibility without having sufficient competencies in the team.
@@ -20,7 +20,7 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - 8 - Brown Belt
 - 9 - Black Belt
 
-## Getting Started 
+## Getting Started
 
 This getting started is primarily aimed at developers.
 
@@ -40,8 +40,8 @@ Before any team can achieve a specific belt, the [Security Champion Guild](https
 
 The Security Belts are based on the [OWASP DevSecOps Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/) and partially inspired by [OWASP SAMM](https://owasp.org/www-project-samm/)
 
-This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379). 
+This work is part of the research project "AppSecure.nrw - Security-by-Design of Java-based Applications". The project is funded by the European Regional Development Fund (ERDF-0801379).
 <br/>
   <br/><img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Logo_48_lang_Zeichenfl%C3%A4che%201.png" alt="AppSecure.nrw Logo" height="50"/>
-  
+
 <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/EFRE_Foerderhinweis_englisch_farbig.jpg" alt="EFRE Logo" height="50"/> <img src="https://github.com/AppSecure-nrw/funding-notice/blob/main/Ziel2NRW_RGB_1809_jpg.jpg" alt="Ziel2NRW Logo" height="50"/>
