@@ -1,6 +1,6 @@
 # Testing for Bypassing Authentication Schema
 
-A common mistake is to assume that authenticating a user only on the main page is sufficient and other locations don't require authentication, because every access occures via the main page.
+A common mistake is to assume that authenticating a user only on the main page is sufficient and other locations don't require authentication, because every access occurs via the main page.
 
 ## Activities
 
