@@ -1,6 +1,8 @@
 # Test for Default Credentials
 
-Test for default credentials of users within all used third party components (e.g., application server, database) of your product that are reachable over network.
+## Activities
+
+- Test for default credentials of users within all used third party components (e.g., application server, database) of your product that are reachable over network.
 
 ## Benefits
 
@@ -12,6 +14,10 @@ Test for default credentials of users within all used third party components (e.
 - Show the tests and usage of the tool(s).
 - Show the handling of the results.
 - Show the latest *n* findings.
+
+## Related Activities
+
+- [Continuous Integration](../yellow/continuous-integration.md)
 
 ## Further Readings
 

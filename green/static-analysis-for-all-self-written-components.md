@@ -1,6 +1,8 @@
 # Static Analysis for All Self-Written Components
 
-Use static code analysis tools to find security vulnerabilities in all self-written source code.
+## Activities
+
+- Use static code analysis tools to find security vulnerabilities in all self-written source code.
 
 ## Benefits
 
@@ -20,6 +22,7 @@ Use static code analysis tools to find security vulnerabilities in all self-writ
 - [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
 
 ## Further Readings
+
 - Tool: [Contrast](https://www.contrastsecurity.com/)
 - Tool: [Spotbugs](https://spotbugs.github.io/) with [Find Security Bugs](https://find-sec-bugs.github.io/)
 - Tool: [SonarQube](https://www.sonarqube.org/)

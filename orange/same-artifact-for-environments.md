@@ -1,10 +1,17 @@
 # Same Artifact for Environments
 
-Build your artifacts only once. Use the same artifact for testing as well as for production purposes. This ensures your artifact in production is the one you tested. Do not use environment names to configure your artifact.
+## Activities
+
+- Build your artifacts only once.
+- Use the same artifact for testing as well as for production purposes.
+- This ensures your artifact in production is the one you tested.
+- Do not use environment names to configure your artifact.
 
 ## Benefits
 
-- The tested artifact is the one which is deployed. No environment specific changes are required right before production deployment. Therefore, bugs introduced by these changes are prevented.
+- The tested artifact is the one which is deployed.
+- No environment specific changes are required right before production deployment.
+- Therefore, bugs introduced by these changes are prevented.
 
 ## Assessment
 
@@ -13,5 +20,3 @@ Build your artifacts only once. Use the same artifact for testing as well as for
   - deploy in a test environment
   - deploy in the production environment
 - Show all configuration parameters of your artifact.
-
-## Further Readings

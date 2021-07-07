@@ -1,21 +1,22 @@
 # Follow Security by Design Principles
 
-Get to know the following Security by Design Principles:
-- [Least Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#least-privilege)
-- [Defense in Depth](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#defense-in-depth)
-- [Fail Securely](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#fail-securely)
-- [No Security by Obscurity](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#no-security-by-obscurity)
-- [Detect and Record](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#detect-and-record)
-- [Don't Trust](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust)
-- [Keep It Simple](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#keep-it-simple)
-- [Secure the Weakest Link](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#secure-the-weakest-link)
-- [Decomposition](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#decomposition)
-- [Separation of Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#separation-of-privilege)
-- [Use Secure Defaults](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#use-secure-defaults)
-- [Don't Reinvent the Wheel](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-reinvent-the-wheel)
-- [Don't Trust Your Supply Chain](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust-your-supply-chain)
+## Activities
 
-Build a common understanding within the team on how to implement these principles and integrate them into your development process.
+- Get to know the following Security by Design Principles:
+  - [Least Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#least-privilege)
+  - [Defense in Depth](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#defense-in-depth)
+  - [Fail Securely](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#fail-securely)
+  - [No Security by Obscurity](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#no-security-by-obscurity)
+  - [Detect and Record](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#detect-and-record)
+  - [Don't Trust](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust)
+  - [Keep It Simple](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#keep-it-simple)
+  - [Secure the Weakest Link](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#secure-the-weakest-link)
+  - [Decomposition](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#decomposition)
+  - [Separation of Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#separation-of-privilege)
+  - [Use Secure Defaults](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#use-secure-defaults)
+  - [Don't Reinvent the Wheel](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-reinvent-the-wheel)
+  - [Don't Trust Your Supply Chain](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust-your-supply-chain)
+- Build a common understanding within the team on how to implement these principles and integrate them into your development process.
 
 ## Benefits
 

@@ -1,6 +1,8 @@
 # Unit Tests for Security Features
 
-Test functionality of security-related features like authentication, and authorization with unit tests.
+## Activities
+
+- Test functionality of security-related features like authentication, and authorization with unit tests.
 
 ## Benefits
 

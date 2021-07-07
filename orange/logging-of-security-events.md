@@ -1,6 +1,10 @@
 # Logging of Security Events
 
-Implement logging of security relevant events. The following events tend to be security relevant:
+## Activities
+
+- Implement logging of security relevant events.
+
+The following events tend to be security relevant:
 - successful/failed login/logout
 - creation, change, and deletion of users
 - errors during input validation and output creation

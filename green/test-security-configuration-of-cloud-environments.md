@@ -1,6 +1,9 @@
 # Test Security Configuration of Cloud Environments
 
-Perform security tests against your cloud environments. These should include IAM topics, logging/monitoring, access control, and system architecture.
+## Activities
+
+- Perform security tests against your cloud environments.
+- These should include IAM topics, logging/monitoring, access control, and system architecture.
 
 ## Benefits
 
@@ -16,6 +19,7 @@ Perform security tests against your cloud environments. These should include IAM
 
 ## Related Activities
 
+- [Continuous Integration](../yellow/continuous-integration.md)
 - [Test for Default Credentials](test-for-default-credentials.md)
 - [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 
