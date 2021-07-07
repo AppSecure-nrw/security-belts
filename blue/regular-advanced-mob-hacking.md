@@ -4,16 +4,16 @@
 
 - Developers of your team participate in mob hacking sessions - organized by the Security Champion Guild - on a regular basis.
 - The goal of the sessions is to train the identification and exploitation of vulnerabilities, which mainly happens using an intercept proxy directly in the http request/response.
-- Just like in mob programming there is one driver and several navigators.
+- Just like in mob programming, there is one driver and several navigators.
 
 Guidelines for your advanced mob hacking session:
 - Basic technical and security knowledge is required.
-- Use an environment where hacking is allowed and does not harm your production.
-- Use dedicated tools for intercepting/manipulating web requests, e.g., [Burp](https://portswigger.net/burp)
+- Use an environment, where hacking is allowed and does not harm your production.
+- Use dedicated tools for intercepting/manipulating web requests, e.g., [Burp](https://portswigger.net/burp).
 - Use an insecure training app, e.g., [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/).
 - Encourage active participation, e.g., use small groups.
 - Allow enough time for understanding the identified exploits.
-- Track progress of the participans over time regarding relevant exploits.
+- Track progress of the participants over time regarding relevant exploits.
 
 ## Benefits
 
