@@ -3,7 +3,7 @@
 ## Activities
 
 - Review the design of your application regarding the [Security by Design Principles](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles).
-- Evaluate all violations of the design principles regarding severity.
+- Evaluate all violations of the design principles regarding their severity.
 - Analyze which violations lead to vulnerabilities.
 
 ## Benefits
