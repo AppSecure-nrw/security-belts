@@ -3,7 +3,7 @@
 ## Activities
 
 - Developers of your team participate in mob hacking sessions - organized by the Security Champion Guild - on a regular basis.
-- The goal of the sessions is to train the identification and exploitation of vulnerabilities, which mainly happens using an intercept proxy directly in the http request/response.
+- Train the identification and exploitation of vulnerabilities, by using an intercepting proxy.
 - Just like in mob programming, there is one driver and several navigators.
 
 Guidelines for your advanced mob hacking session:
@@ -17,8 +17,8 @@ Guidelines for your advanced mob hacking session:
 
 ## Benefits
 
-- Improve security knowledge within the team.
-- Understanding advanced security threats, vulnerabilities, hacking methods, and security tools.
+- The team improves their security knowledge.
+- The team understands advanced security threats, vulnerabilities, hacking methods, and security tools.
 - The team understands that even implemented security features can be insecure and exploitable.
 
 ## Assessment
