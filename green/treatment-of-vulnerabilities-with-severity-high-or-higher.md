@@ -1,6 +1,8 @@
 # Treatment of Vulnerabilities With Severity High or Higher
 
-Focus on fixing the most relevant vulnerabilities without being overwhelmed of the potentially great number of low-impact findings.
+## Activities
+
+- Focus on fixing the most relevant vulnerabilities without being overwhelmed of the potentially great number of low-impact findings.
 
 ## Benefits
 

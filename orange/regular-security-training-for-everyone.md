@@ -1,6 +1,8 @@
 # Regular Security Training for Everyone
 
-Attend security SDLC trainings with the team on a regular basis.
+## Activities
+
+- Attend security *Software Development Life Cycle* (SDLC) trainings with the team on a regular basis.
 
 ## Benefits
 
@@ -10,5 +12,3 @@ Attend security SDLC trainings with the team on a regular basis.
 ## Assessment
 
 - Each team member talks about their key takeaways of the security SDLC training.
-
-## Further Readings

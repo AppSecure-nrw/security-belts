@@ -1,6 +1,9 @@
 # Prevent Secrets in Source Code
 
-Avoid hard-coded secrets (e.g., credentials) in application and infrastructure source code. Automate this task by using Git pre-commit hooks or similar techniques.
+## Activities
+
+- Avoid hard-coded secrets (e.g., credentials) in application and infrastructure source code.
+- Automate this task by using Git pre-commit hooks or similar techniques.
 
 ## Benefits
 

@@ -1,6 +1,10 @@
 # Security Code Review
 
-Perform code reviews of security-related software and infrastructure with the Security Champion Guild. The following areas of code tend to have a high-risk of containing security vulnerabilities:
+## Activities
+
+- Perform code reviews of security-related software and infrastructure with the Security Champion Guild.
+
+The following areas of code tend to have a high-risk of containing security vulnerabilities:
   - Crypto implementations / usage
   - Parser, unparser
   - System configuration
@@ -19,4 +23,5 @@ Perform code reviews of security-related software and infrastructure with the Se
 - Present the performed reviews (including participants, findings, consequences) and assess whether it is reasonable.
 
 ## Further Readings
+
 - Literature: [CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2020/2020_cwe_top25.html)

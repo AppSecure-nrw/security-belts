@@ -1,6 +1,8 @@
 # Test of Components Regarding Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all software components used by your software (e.g., libraries, but not containers (see related belt activity)).
+## Activities
+
+- Perform tests for known vulnerabilities in all software components used by your software (e.g., libraries, but not containers (see related belt activity)).
 
 ## Benefits
 
@@ -15,8 +17,11 @@ Perform tests for known vulnerabilities in all software components used by your 
 - Show your false positive list.
 
 ## Related Activities
- - Container Update Enforcement (in development)
- - [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
- 
+
+- [Continuous Integration](../yellow/continuous-integration.md)
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
+- [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
+
 ## Further Readings
+
  - Tool: [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/)

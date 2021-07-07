@@ -1,12 +1,15 @@
 # Nightly Dependency Version Upgrade
 
-Perform nightly upgrades of all dependencies (e.g., libraries) within the build process of your software. Validate the latest dependency updates and upgrade the new dependencies in the repository after successful build and test process. 
+## Activities
+
+- Perform nightly upgrades of all dependencies (e.g., libraries) within the build process of your software.
+- Validate the latest dependency updates and upgrade the new dependencies in the repository after successful build and test process.
 
 ## Benefits
 
 - All software components are up-to-date and use dependencies with all available fixes for publicly known vulnerabilities.
 - Immediate benefit of bugfixes within the dependencies.
-- Early notification of deprecated functionality used by your software. 
+- Early notification of deprecated functionality used by your software.
 
 ## Assessment
 

@@ -1,13 +1,13 @@
 # Creation of Evil User Stories
 
-Create evil user stories to complement user stories from a security perspective.
+## Activities
 
-Use a template like for normal user stores:
+- Create evil user stories to complement user stories from a security perspective.
+- Use a template like for normal user stores:
 ```
 As a <role>, I can <capability>, so that <receive benefit>.
 ```
-
-Create an *evil* user story by describing an attack scenario on an application. Keep in mind to cover abuse as well as misuse.
+- Create an *evil* user story by describing an attack scenario on an application. Keep in mind to cover abuse as well as misuse.
 
 ## Benefits
 
@@ -19,5 +19,3 @@ Create an *evil* user story by describing an attack scenario on an application. 
 
 - Show *n* user stories and their evil user story counterparts.
 - Show how the team considers the evil user stories during design and implementation.
-
-## Further Readings
