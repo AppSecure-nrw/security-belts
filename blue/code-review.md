@@ -3,8 +3,8 @@
 ## Activities
 
 - Perform code reviews of all code changes on software and infrastructure within the team.
-- Make sure that only approved changes are merged to your main branch within your version control system.
-- A common solution is the use of pull requests in GitHub.
+- Ensure that knowledge gained from the [Security Code Review](../yellow/security-code-review.md) is applied here.
+- Make sure that only approved changes are merged to your main branch within your version control system. A common solution is the use of pull requests in GitHub.
 
 ## Benefits
 
