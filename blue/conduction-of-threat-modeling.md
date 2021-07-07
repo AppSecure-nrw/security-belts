@@ -4,7 +4,7 @@
 
 - Identify threats by performing threat modeling (e.g., apply [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))) for your product including all internal, external, and third-party components (e.g., services, databases) and interactions between them.
 - Keep the model up to date.
-- Identify and adress the resulting risks.
+- Identify and address the resulting risks.
 - Perform regularly reviews of the security mechanisms of your architecture.
 
 ## Benefits
