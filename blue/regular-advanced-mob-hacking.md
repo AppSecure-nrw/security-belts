@@ -3,7 +3,7 @@
 ## Activities
 
 - Developers of your team participate in mob hacking sessions - organized by the Security Champion Guild - on a regular basis.
-- Train the identification and exploitation of vulnerabilities, by using an intercepting proxy.
+- Train the identification and exploitation of vulnerabilities, by using an intercepting proxy, e.g., [Burp](https://portswigger.net/burp).
 - Just like in mob programming, there is one driver and several navigators.
 
 Guidelines for your advanced mob hacking session:
