@@ -2,7 +2,7 @@
 
 ## Activities
 
-- Analyze your specific load requirements and perform corresponding load tests against your application and infrastructure components.
+- Analyze your specific performance requirements and perform corresponding load tests against your application and infrastructure components.
 
 ## Benefits
 
