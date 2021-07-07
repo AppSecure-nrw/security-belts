@@ -2,7 +2,7 @@
 
 ## Activities
 
-- Use dynamic security scanning tools to find security vulnerabilities in all components of your developed software.
+- Use dynamic application security scanning tools to find security vulnerabilities in all components of your developed software.
 
 ## Benefits
 
