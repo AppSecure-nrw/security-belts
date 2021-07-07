@@ -2,7 +2,7 @@
 
 ## Activities
 
-- Perform API fuzzing regarding parameter names, malicious values and unknown endpoints.
+- Perform API fuzzing regarding parameter names, malicious values, and unknown endpoints.
 
 ## Benefits
 
