@@ -2,8 +2,7 @@
 
 ## Activities
 
-- Identify threats by performing threat modeling for your product including all (internal & external/third-party) components (e.g., services, databases) and interactions between them.
-- A common threat modeling framework is [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)).
+- Identify threats by performing threat modeling (e.g., apply [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security))) for your product including all internal, external, and third-party components (e.g., services, databases) and interactions between them.
 - Keep the model up to date and perform regularly reviews of the security mechanisms of your architecture.
 
 ## Benefits
