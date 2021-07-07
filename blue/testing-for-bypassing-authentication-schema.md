@@ -6,7 +6,7 @@ A common mistake is to assume that authenticating a user only on the main page i
 
 - Test that all resources delivered by your application require authentication, except for the public ones.
 - Leverage API specifications like OpenAPI to discover all endpoints of your application.
-- In case you do not have white-box information about the application, use tools to discover and access resources, e.g., gobuster or dirbuster.
+- In case you do not have white-box information about the application, use tools to discover and access resources, e.g., Gobuster.
 
 ## Benefits
 
@@ -29,4 +29,5 @@ A common mistake is to assume that authenticating a user only on the main page i
 - Tool: [Burp](https://portswigger.net/burp)
 - Tool: [OWASP ZAP](https://www.zaproxy.org/)
 - Tool: [ffuf](https://github.com/ffuf/ffuf)
+- Tool: [Gobuster](https://github.com/OJ/gobuster)
 - Specification: [OpenAPI](https://www.openapis.org/)
