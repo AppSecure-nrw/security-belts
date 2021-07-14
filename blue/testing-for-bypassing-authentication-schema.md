@@ -5,13 +5,12 @@ A common mistake is to assume that authenticating a user only on the main page i
 ## Activities
 
 - Test that all resources delivered by your application require authentication, except for the public ones.
-- Leverage API specifications like OpenAPI to discover all endpoints of your application.
-- In case you do not have white-box information about the application, use tools to discover and access resources, e.g., Gobuster.
+- Leverage API specifications like [OpenAPI](https://www.openapis.org/) to discover all endpoints of your application.
+- Use tools to discover and access resources, e.g., [Gobuster](https://github.com/OJ/gobuster).
 
 ## Benefits
 
-- Detect this common flaw and bug in your authentication system.
-- You ensure, that private data is in fact not public.
+- Ensure that private data is in fact not public.
 
 ## Assessment
 
@@ -21,7 +20,7 @@ A common mistake is to assume that authenticating a user only on the main page i
 
 ## Related Activities
 
-- [Security Code Review](../yellow/security-code-review.md) reviews the authentication and authorization concept and implementation.
+- [Security Code Review](../yellow/security-code-review.md)
 - [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 
 ## Further Readings

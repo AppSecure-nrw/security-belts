@@ -2,12 +2,15 @@
 
 ## Activities
 
-- Analyze your specific performance requirements and perform corresponding load tests against your application and infrastructure components.
+- Define or identify your specific performance requirements.
+- Perform corresponding load tests against your application and infrastructure components.
+- If possible, use tools to automate this task as much as possible.
 
 ## Benefits
 
 - Know the limits of your application and infrastructure components.
 - Ability to scale appropriately for expected load cases.
+- Improve availability and resilience of your application.
 
 ## Assessment
 

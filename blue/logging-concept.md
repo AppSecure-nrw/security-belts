@@ -2,7 +2,11 @@
 
 ## Activities
 
-Create a logging concept considering the following aspects:
+- Improve or create the logging concept of your software.
+- Adhere to your logging concept in your software.
+- Start with your most critical application.
+
+Make sure your concept considers the following aspects:
 - Which data classification does your log data have?
   - Does your data include PII (personally identifiable information)?
 - Which regulatory requirements apply to your software?
@@ -20,9 +24,10 @@ Create a logging concept considering the following aspects:
 
 ## Assessment
 
-- Present the implementation of your concept, answering the questions above.
+- Present your concept, answering the questions above.
+- Present the implementation of your concept.
 - Show the oldest irregularity in your logs.
-- Are you sure it is legal to log this data?
+- Are you sure it is legal to log all these data?
 
 ## Related Activities
 
