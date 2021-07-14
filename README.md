@@ -1,3 +1,4 @@
+![GitHub release](https://img.shields.io/github/v/release/AppSecure-nrw/security-belts)
 ![Check Markdown Links](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml/badge.svg)
 ![Spell Check](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml/badge.svg)
 
