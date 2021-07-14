@@ -1,6 +1,8 @@
 # Continuous Integration
 
-Use continuous automated building and testing of the software.
+## Activities
+
+- Use continuous automated building and testing of the software.
 
 ## Benefits
 
@@ -15,4 +17,5 @@ Use continuous automated building and testing of the software.
 - Show that failed jobs are fixed.
 
 ## Further Readings
-- https://martinfowler.com/articles/continuousIntegration.html
+
+- Literature: [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)

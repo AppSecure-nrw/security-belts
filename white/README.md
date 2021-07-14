@@ -11,5 +11,6 @@ The white belt - with its activities - shall lay the organizational basis for th
 - [Continuously Improve your Security Belt Rank](continuously-improve-your-security-belt-rank.md)
 - [Review Security Belt Activities](review-security-belt-activities.md)
 
-## Further Readings ##
+## Further Readings
+
 - Literature: [Culture Eats Technology for Lunch](https://www.entrepreneur.com/article/245511) -David DeWolf

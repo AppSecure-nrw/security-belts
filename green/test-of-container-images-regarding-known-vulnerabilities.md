@@ -1,6 +1,9 @@
 # Test of Container Images Regarding Known Vulnerabilities
 
-Perform tests for known vulnerabilities in all container images used by your software. Use tools to automate your tests.
+## Activities
+
+- Perform tests for known vulnerabilities in all container images used by your software.
+- Use tools to automate your tests.
 
 ## Benefits
 
@@ -16,9 +19,11 @@ Perform tests for known vulnerabilities in all container images used by your sof
 
 ## Related Activities
 
- - Container Update Enforcement (in development)// TODO
+- [Continuous Integration](../yellow/continuous-integration.md)
+- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
 
 ## Further Readings
+
  - Tool: [JFrog Xray](https://jfrog.com/xray/)
  - Tool: <!-- markdown-link-check-disable -->[Anchore](https://anchore.com/)<!-- markdown-link-check-enable -->
  - Tool: [Clair](https://github.com/quay/clair/releases)
