@@ -12,7 +12,7 @@ For detailed information on the methodology behind the model, please take a look
 
 Working on the belts is a continuous effort. Start with the first belt, the white one, and keep working on them, until you achieve the desired belt for your team. Activities of later belts often relate to activities introduced in previous belts. In this case, the previous relevant belt activities will be highlighted for the belt activity.
 
-- <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/01_security-belt-white.svg" width="25" /> [1 - White Belt](white/README.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/01_security-belt-white.svg" width="25" /> 1 - White Belt](white/README.md)
 - <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" /> [2 - Yellow Belt](yellow/README.md)
 - <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" /> [3 - Orange Belt](orange/README.md)
 - <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" /> [4 - Green Belt](green/README.md)
