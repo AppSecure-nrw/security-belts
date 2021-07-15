@@ -1,6 +1,6 @@
-![GitHub release](https://img.shields.io/github/v/release/AppSecure-nrw/security-belts)
-![Check Markdown Links](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml/badge.svg)
-![Spell Check](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml/badge.svg)
+[![GitHub release](https://img.shields.io/github/v/release/AppSecure-nrw/security-belts)](https://github.com/AppSecure-nrw/security-belts/releases)
+[![Check Markdown Links](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml/badge.svg)](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml?query=branch%3Amaster)
+[![Spell Check](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml/badge.svg)](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml?query=branch%3Amaster)
 
 # Security Belts
 
