@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/AppSecure-nrw/security-belts)
 ![GitHub release](https://img.shields.io/github/v/release/AppSecure-nrw/security-belts)
 ![Check Markdown Links](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-md-links.yml/badge.svg)
 ![Spell Check](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml/badge.svg)
