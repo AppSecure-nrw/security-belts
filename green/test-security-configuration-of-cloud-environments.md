@@ -19,9 +19,9 @@
 
 ## Related Activities
 
-- [Continuous Integration](../yellow/continuous-integration.md)
-- [Test for Default Credentials](test-for-default-credentials.md)
-- [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Continuous Integration](../yellow/continuous-integration.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Test for Default Credentials](../green/test-for-default-credentials.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 
 ## Further Readings
 

@@ -16,7 +16,7 @@
 
 ## Related Activities
 
-- [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
 
 ## Further Readings
 

@@ -42,7 +42,7 @@ When implementing this principle:
 
 ## Related Activities
 
-- [Security Code Review](../yellow/security-code-review.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Security Code Review](../yellow/security-code-review.md)
 
 ## Further Readings
 

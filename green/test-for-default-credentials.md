@@ -17,7 +17,7 @@
 
 ## Related Activities
 
-- [Continuous Integration](../yellow/continuous-integration.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Continuous Integration](../yellow/continuous-integration.md)
 
 ## Further Readings
 

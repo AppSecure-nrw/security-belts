@@ -18,9 +18,9 @@
 
 ## Related Activities
 
-- [Continuous Integration](../yellow/continuous-integration.md)
-- [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
-- [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Continuous Integration](../yellow/continuous-integration.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Definition of Quality Gates](../yellow/definition-of-quality-gates.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Test of Containers Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
 
 ## Further Readings
 

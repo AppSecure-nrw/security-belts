@@ -20,8 +20,8 @@ A common mistake is to assume that authenticating a user only on the main page i
 
 ## Related Activities
 
-- [Security Code Review](../yellow/security-code-review.md)
-- [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Security Code Review](../yellow/security-code-review.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
 
 ## Further Readings
 

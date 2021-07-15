@@ -19,7 +19,7 @@
 
 ## Related Activities
 
-- [Environment-Dependent Configuration Parameters](environment-dependent-configuration-parameters.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Environment-Dependent Configuration Parameters](../green/environment-dependent-configuration-parameters.md)
 
 ## Further Readings
 

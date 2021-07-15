@@ -26,7 +26,7 @@ Be aware, by introducing this activity, you might have a backlog with many findi
 
 ## Related Activities
 
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Continuous Integration](continuous-integration.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Continuous Integration](../yellow/continuous-integration.md)
 
 ## Further Readings
 

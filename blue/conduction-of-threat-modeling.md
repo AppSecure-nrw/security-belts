@@ -20,7 +20,7 @@
 
 ## Related Activities
 
-- [Get to Know Your Security Policies](../white/get-to-know-your-security-policies.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/01_security-belt-white.svg" width="25" />](#) [Get to Know Your Security Policies](../white/get-to-know-your-security-policies.md)
 
 ## Further Readings
 
