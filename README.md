@@ -17,10 +17,10 @@ Working on the belts is a continuous effort. Start with the first belt, the whit
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](orange/README.md) [3 - Orange Belt](orange/README.md)
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](green/README.md) [4 - Green Belt](green/README.md)
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/05_security-belt-blue.svg" width="25" />](blue/README.md) [5 - Blue Belt](blue/README.md)
-- <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="25" /> 6 - Purple Belt
-- <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/07_security-belt-red.svg" width="25" /> 7 - Red Belt
-- <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/08_security-belt-brown.svg" width="25" /> 8 - Brown Belt
-- <img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/09_security-belt-black.svg" width="25" /> 9 - Black Belt
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="25" />](purple/README.md) [6 - Purple Belt](purple/README.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/07_security-belt-red.svg" width="25" />](red/README.md) [7 - Red Belt](red/README.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/08_security-belt-brown.svg" width="25" />](brown/README.md) [8 - Brown Belt](brown/README.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/09_security-belt-black.svg" width="25" />](black/README.md) [9 - Black Belt](black/README.md)
 
 ## Getting Started
 
