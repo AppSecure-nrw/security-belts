@@ -1,4 +1,4 @@
-# 4 - Green Belt
+# [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="40" />](#) Green Belt
 
 The green belt introduces static code analysis as well as first activities ensuring security during the lifecycle of your software. It is also the first belt introducing topics regarding infrastructure, configuration, and credentials.
 

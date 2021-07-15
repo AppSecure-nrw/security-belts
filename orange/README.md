@@ -1,4 +1,4 @@
-# 3 - Orange Belt
+# [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="40" />](#) Orange Belt
 
 The orange belt introduces the Security Champion as a security expert in each team who also connects the team with the Security Champion Guild. Once your team successfully achieved the orange belt, security topics and skills are in the mind of every developer and are visible within the team and especially for the Product Owner.
 

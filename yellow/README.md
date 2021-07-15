@@ -1,4 +1,4 @@
-# 2 - Yellow Belt
+# [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="40" />](#) Yellow Belt
 
 The yellow belt introduces activities to automatically build and test the developed software and, as such, gives the team continuous high-level feedback on its current state. It is recommended that every team achieves this belt.
 
