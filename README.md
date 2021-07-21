@@ -4,6 +4,16 @@
 
 # Security Belts
 
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/01_security-belt-white.svg" width="75" />](white/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="75" />](yellow/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="75" />](orange/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="75" />](green/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/05_security-belt-blue.svg" width="75" />](blue/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="75" />](purple/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/07_security-belt-red.svg" width="75" />](red/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/08_security-belt-brown.svg" width="75" />](brown/README.md)
+[<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/09_security-belt-black.svg" width="75" />](black/README.md)
+
 The maturity model *Security Belts* structures activities of the secure software development and, thus, offers development teams a good opportunity to address the topic and to build up necessary competencies to ensure the software security of their products. Thereby, the maturity model supports development teams that are overwhelmed with the duty to take over much more responsibility without having sufficient competencies in the team.
 
 For detailed information on the methodology behind the model, please take a look at our [Wiki](https://github.com/AppSecure-nrw/security-belts/wiki).
