@@ -22,4 +22,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.increment_version.outputs.v_patch }}
+          release_name: ${{ steps.increment_version.outputs.v_patch }}
           body: ${{ steps.changelog.outputs.changelog }}
