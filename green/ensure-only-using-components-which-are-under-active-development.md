@@ -19,4 +19,4 @@
 
 ## Related Activities
 
-- [Nightly Dependency Version Upgrade](nightly-dependency-version-upgrade.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Nightly Dependency Version Upgrade](../green/nightly-dependency-version-upgrade.md)

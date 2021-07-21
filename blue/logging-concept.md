@@ -31,8 +31,8 @@ Make sure your concept considers the following aspects:
 
 ## Related Activities
 
-- [Logging of Security Events](../orange/logging-of-security-events.md)
-- [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Logging of Security Events](../orange/logging-of-security-events.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/05_security-belt-blue.svg" width="25" />](#) [Conduction of Threat Modeling](../blue/conduction-of-threat-modeling.md)
 
 ## Further Readings
 

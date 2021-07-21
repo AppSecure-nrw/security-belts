@@ -21,9 +21,9 @@
 
 ## Related Activities
 
-- [Security Code Review](../yellow/security-code-review.md)
-- [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
-- [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Security Code Review](../yellow/security-code-review.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
 
 ## Further Readings
 

@@ -18,7 +18,7 @@
 
 ## Related Activities
 
-- [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
-- [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
-- [Integration of Vulnerability Issues into the Development Process](../green/integration-of-vulnerability-issues-into-the-development-process.md)
-- [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Integration of Vulnerability Issues into the Development Process](../green/integration-of-vulnerability-issues-into-the-development-process.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/05_security-belt-blue.svg" width="25" />](#) [Conduction of Threat Modeling](../blue/conduction-of-threat-modeling.md)

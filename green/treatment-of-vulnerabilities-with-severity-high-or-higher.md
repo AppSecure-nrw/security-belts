@@ -16,13 +16,13 @@
 
 ## Related Activities
 
-- [False Positive Treatment](../yellow/false-positive-treatment.md)
-- [Test of Containers Images Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
-- [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
-- [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
-- [Test of Client Side Components With Known Vulnerabilities](../orange/test-of-client-side-components-with-known-vulnerabilities.md)
-- [Nightly Test of Libraries With Known Vulnerabilities](../orange/nightly-test-of-libraries-with-known-vulnerabilities.md)
-- [Static Analysis for All Self-Written Components](static-analysis-for-all-self-written-components.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [False Positive Treatment](../yellow/false-positive-treatment.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Test of Components Regarding Known Vulnerabilities](../yellow/test-of-components-regarding-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Test of Client Side Components With Known Vulnerabilities](../orange/test-of-client-side-components-with-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Nightly Test of Libraries With Known Vulnerabilities](../orange/nightly-test-of-libraries-with-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Test of Containers Images Regarding Known Vulnerabilities](../green/test-of-container-images-regarding-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Static Analysis for All Self-Written Components](../green/static-analysis-for-all-self-written-components.md)
 
 ## Further Readings
 

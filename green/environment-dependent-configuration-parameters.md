@@ -20,8 +20,8 @@
 
 ## Related Activities
 
-- [Same Artifact for Environments](../orange/same-artifact-for-environments.md)
-- [Prevent Secrets in Source Code](prevent-secrets-in-source-code.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Same Artifact for Environments](../orange/same-artifact-for-environments.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Prevent Secrets in Source Code](../green/prevent-secrets-in-source-code.md)
 
 ## Further Readings
 

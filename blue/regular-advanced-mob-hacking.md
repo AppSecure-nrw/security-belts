@@ -28,8 +28,8 @@ Guidelines for your advanced mob hacking session:
 
 ## Related Activities
 
-- [Simple Mob Hacking](../yellow/simple-mob-hacking.md)
-- [Regular Security Training for Everyone](../orange/regular-security-training-for-everyone.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Simple Mob Hacking](../yellow/simple-mob-hacking.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Regular Security Training for Everyone](../orange/regular-security-training-for-everyone.md)
 
 ## Further Readings
 

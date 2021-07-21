@@ -21,7 +21,7 @@
 
 ## Related Activities
 
-- [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Follow Security by Design Principles](../orange/follow-security-by-design-principles.md)
 
 ## Further Readings
 

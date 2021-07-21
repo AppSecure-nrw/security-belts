@@ -22,5 +22,5 @@ For suppressions:
 
 ## Related Activities
 
-- [Security Consulting on Request](security-consulting-on-request.md)
-- [Security Code Review](security-code-review.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Security Consulting on Request](../yellow/security-consulting-on-request.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Security Code Review](../yellow/security-code-review.md)
