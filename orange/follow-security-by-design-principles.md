@@ -15,7 +15,6 @@
   - [Separation of Privilege](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#separation-of-privilege)
   - [Use Secure Defaults](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#use-secure-defaults)
   - [Don't Reinvent the Wheel](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-reinvent-the-wheel)
-  - [Don't Trust Your Supply Chain](https://github.com/AppSecure-nrw/security-belts/wiki/Security-by-Design-Principles#dont-trust-your-supply-chain)
 - Build a common understanding within the team on how to implement these principles and integrate them into your development process.
 
 ## Benefits
