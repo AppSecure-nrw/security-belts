@@ -3,6 +3,7 @@
 ## Activities
 
 - Test functionality of security-related features like authentication, and authorization with unit tests.
+  - Beware, unit tests should not only cover positive cases, but also negative cases (e.g., accessing admin resources as a normal user).
 
 ## Benefits
 
@@ -14,7 +15,7 @@
 
 ## Examples
 
-[OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide) provides some general starting points you should cover:
+[OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide) provides some good examples which can be covered by unit tests:
 
 - [4.4.7 Testing for Weak Password Policy](https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/04-Authentication_Testing/07-Testing_for_Weak_Password_Policy.html)
   1. test for known passwords like $company2021, admin, $projectName, 123456, aaa
