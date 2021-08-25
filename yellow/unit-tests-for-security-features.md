@@ -2,7 +2,14 @@
 
 ## Activities
 
-- Test functionality of security-related features like authentication, and authorization with unit tests.
+- Identify all security-related features. These commonly contribute to the following security goals:
+  - confidentiality
+  - integrity
+  - availability
+  - authentication
+  - authorization
+  - accountability
+- Test functionality of these security-related features with unit tests.
   - Beware, unit tests should not only cover positive cases, but also negative cases (e.g., accessing admin resources as a normal user).
 
 ## Benefits
