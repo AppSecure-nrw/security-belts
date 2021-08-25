@@ -1,4 +1,4 @@
-# Basic Scan
+# Dynamic Scan for Security Vulnerabilities
 
 ## Activities
 
