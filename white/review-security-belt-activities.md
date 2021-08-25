@@ -2,7 +2,8 @@
 
 ## Activities
 
-- Let the Security Champion Guild review your implementations of security belt activities (or concepts of these implementations) as soon as possible.
+- After implementing a security belt activity, approach the Security Champion Guild for a review.
+- Use the early feedback of the single activity before the assessment of the whole belt.
 
 ## Benefits
 
