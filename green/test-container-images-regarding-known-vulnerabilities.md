@@ -1,4 +1,4 @@
-# Test of Container Images Regarding Known Vulnerabilities
+# Test Container Images Regarding Known Vulnerabilities
 
 ## Activities
 
