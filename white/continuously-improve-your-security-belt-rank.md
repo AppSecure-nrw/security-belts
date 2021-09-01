@@ -14,4 +14,8 @@ Security is like a big pizza. You cannot eat it as a whole, but you can slice it
 - The Product Owner has transparency of the investment and benefit of security belts.
 - The team is improving its software security.
 
+## Assessment
+
+- The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
+
 <p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

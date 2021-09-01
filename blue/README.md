@@ -6,7 +6,7 @@ You learn advanced methods and tools for identifying and exploiting vulnerabilit
 - [Code Review](code-review.md)
 - [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
 - [Get to Know Your Design Flaws](get-to-know-your-design-flaws.md)
-- [Basic Scan](basic-scan.md)
+- [Dynamic Scan for Security Vulnerabilities](dynamic-scan-for-security-vulnerabilities.md)
 - [API Fuzzing](api-fuzzing.md)
 - [Regular Advanced Mob Hacking](regular-advanced-mob-hacking.md)
 - [Load Tests](load-tests.md)

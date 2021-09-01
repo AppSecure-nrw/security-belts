@@ -3,10 +3,10 @@
 ## Activities
 
 - Participate with your whole team in a simple mob hacking session organized by the Security Champion Guild.
-- In the session the guild presents a vulnerable application and together you look at possible exploits.
-- Just like in mob programming there is one driver and several navigators.
+- In the session, the guild presents a vulnerable application and together you look at possible exploits.
 
 Guidelines for your simple mob hacking session:
+- Just like in mob programming, there is one driver and several navigators.
 - All exploits happen via the user interface.
 - No need for security/hacking tools.
 - No need for deep technical or security knowledge.

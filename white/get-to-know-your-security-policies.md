@@ -11,4 +11,8 @@
 - Building and operating software securely is hard; utilizing standards (as described in the security policies) makes it at least a bit easier.
 - Basic security risks, which are covered by security policies, are handled.
 
+## Assessment
+
+- The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
+
 <p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

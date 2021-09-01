@@ -8,7 +8,7 @@ The green belt introduces static code analysis as well as first activities ensur
 - [Integration of Vulnerability Issues into the Development Process](integration-of-vulnerability-issues-into-the-development-process.md)
 - [Static Analysis for All Self-Written Components](static-analysis-for-all-self-written-components.md)
 - [Treatment of Vulnerabilities With Severity High or Higher](treatment-of-vulnerabilities-with-severity-high-or-higher.md)
-- [Test of Container Images Regarding Known Vulnerabilities](test-of-container-images-regarding-known-vulnerabilities.md)
+- [Test Container Images Regarding Known Vulnerabilities](test-container-images-regarding-known-vulnerabilities.md)
 - [Test Security Configuration of Cloud Environments](test-security-configuration-of-cloud-environments.md)
 - [Test Security Configuration of Infrastructure](test-security-configuration-of-infrastructure.md)
 - [Nightly Dependency Version Upgrade](nightly-dependency-version-upgrade.md)

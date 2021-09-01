@@ -11,4 +11,8 @@
 - Starting to implement security belt activities with guidance is easier.
 - The team is improving its software security while avoiding previously made mistakes.
 
+## Assessment
+
+- The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
+
 <p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
