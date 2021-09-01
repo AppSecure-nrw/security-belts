@@ -14,3 +14,5 @@ Changes to the application might corrupt its data.
 
 - Show preparations of your restore procedure for the last release.
 - Execute your restore procedure in a test environment.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

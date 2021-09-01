@@ -21,3 +21,5 @@ To estimate, take a look at:
 ## Assessment
 
 - The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

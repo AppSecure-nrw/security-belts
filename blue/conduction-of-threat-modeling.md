@@ -27,3 +27,5 @@
 - Literature: [STRIDE Threat Modeling](https://en.wikipedia.org/wiki/STRIDE_(security))
 - Tool: [MS Threat Modeling](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
 - Tool: [Threagile](https://threagile.io/)
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

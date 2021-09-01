@@ -13,3 +13,5 @@ The green belt introduces static code analysis as well as first activities ensur
 - [Test Security Configuration of Infrastructure](test-security-configuration-of-infrastructure.md)
 - [Nightly Dependency Version Upgrade](nightly-dependency-version-upgrade.md)
 - [Ensure Only Using Components Which Are Under Active Development](ensure-only-using-components-which-are-under-active-development.md)
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MJWT29X">Send Feedback</a></p>

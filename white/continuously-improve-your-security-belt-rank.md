@@ -17,3 +17,5 @@ Security is like a big pizza. You cannot eat it as a whole, but you can slice it
 ## Assessment
 
 - The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
