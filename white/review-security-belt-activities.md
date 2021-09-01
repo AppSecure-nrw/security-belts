@@ -11,3 +11,7 @@
 - Early feedback before the belt assessment.
 - The quality of the implementation is increased.
 - Successes can be celebrated intermediately.
+
+## Assessment
+
+- The white belt shall create the commitment to work on the Security Belts. Therefore, it does not require any assessment.
