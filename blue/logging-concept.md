@@ -37,3 +37,5 @@ Make sure your concept considers the following aspects:
 ## Further Readings
 
 - Literature: [GDPR](https://gdpr.eu/)
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

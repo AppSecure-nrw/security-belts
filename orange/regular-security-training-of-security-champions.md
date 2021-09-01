@@ -28,3 +28,5 @@ Some example conferences that offer trainings:
 - BlackHat
 - SecAppDev
 - HITB
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

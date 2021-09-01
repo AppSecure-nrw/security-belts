@@ -10,3 +10,5 @@
 
 - Building and operating software securely is hard; utilizing standards (as described in the security policies) makes it at least a bit easier.
 - Basic security risks, which are covered by security policies, are handled.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

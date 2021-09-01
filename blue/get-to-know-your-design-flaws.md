@@ -22,3 +22,5 @@
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Integration of Vulnerability Issues into the Development Process](../green/integration-of-vulnerability-issues-into-the-development-process.md)
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/05_security-belt-blue.svg" width="25" />](#) [Conduction of Threat Modeling](../blue/conduction-of-threat-modeling.md)
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

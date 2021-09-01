@@ -14,3 +14,5 @@ Software vulnerabilities might be exploited when shipped into production. This r
 - Resources are allocated to improve in security - to avoid, detect and fix security vulnerabilities.
 - Management can perform well informed decision when judging "risks vs. revenue".
 - The Product Owner has transparency on how secure the product is.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

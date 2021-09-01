@@ -20,3 +20,5 @@
   - deploy in a test environment
   - deploy in the production environment
 - Show all configuration parameters of your artifact.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>

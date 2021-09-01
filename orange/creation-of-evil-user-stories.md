@@ -19,3 +19,5 @@ As a <role>, I can <capability>, so that <receive benefit>.
 
 - Show *n* user stories and their evil user story counterparts.
 - Show how the team considers the evil user stories during design and implementation.
+
+<p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
