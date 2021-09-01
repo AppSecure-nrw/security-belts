@@ -14,3 +14,8 @@ The white belt - with its activities - shall lay the organizational basis for th
 ## Further Readings
 
 - Literature: [Culture Eats Technology for Lunch](https://www.entrepreneur.com/article/245511) -David DeWolf
+
+
+<p align="right">
+[Send Feedback](https://www.surveymonkey.de/r/MJWT29X)
+</p>
