@@ -3,6 +3,7 @@
 [![Spell Check](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml/badge.svg)](https://github.com/AppSecure-nrw/security-belts/actions/workflows/check-spell.yml?query=branch%3Amaster)
 <br />
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/AppSecure-nrw/security-belts)
+<p align="right"><a href="https://www.surveymonkey.de/r/MC6JQR2">Send Feedback</a></p>
 
 # Security Belts
 
@@ -19,8 +20,6 @@
 The maturity model *Security Belts* structures activities of the secure software development and, thus, offers development teams a good opportunity to address the topic and to build up necessary competencies to ensure the software security of their products. Thereby, the maturity model supports development teams that are overwhelmed with the duty to take over much more responsibility without having sufficient competencies in the team.
 
 For detailed information on the methodology behind the model, please take a look at our [Wiki](https://github.com/AppSecure-nrw/security-belts/wiki).
-
-<p align="right"><a href="https://www.surveymonkey.de/r/MC6JQR2">Send Feedback</a></p>
 
 ## Belts
 
