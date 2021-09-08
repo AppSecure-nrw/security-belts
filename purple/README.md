@@ -12,7 +12,7 @@ TODO summary + order
 - Inject production secrets into configuration files during deployment
 - Infrastructure as Code
 - Test the definition of virtualized environments
-  - SAST on infrastructure code
+  - static analysis on infrastructure code
   - *example tools* [cloudformation-guard](https://github.com/aws-cloudformation/cloudformation-guard)
 - Coverage analysis
   - *related* Dynamic Scan for Security Vulnerabilities
