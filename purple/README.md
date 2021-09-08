@@ -4,9 +4,9 @@ TODO summary + order
 
 - [Treatment of Vulnerabilities With Severity Medium](treatment-of-vulnerabilities-with-severity-medium.md)
 - [Dynamic Scan With Different Roles](dynamic-scan-with-different-roles.md)
-- Targeted alerting
-  - *requires* (Simple application metrics || Simple system metrics) && Visualized metrics
-  - Do you analyze log data for security incidents periodically?
+- [Creation of Application Metrics](creation-of-application-metrics.md)
+- [Simple Visualization of Metrics](simple-visualization-of-metrics.md)
+- [Targeted Alerting on Metric Violations](targeted-alerting-on-metric-violations.md)
 - Limit access to application secrets according to the least privilege principle
   - Don't be stupid
 - Inject production secrets into configuration files during deployment
