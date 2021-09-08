@@ -17,6 +17,8 @@
 ## Related Activities
 
 - [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Test Components Regarding Known Vulnerabilities](../yellow/test-components-regarding-known-vulnerabilities.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity High or Higher](../green/treatment-of-vulnerabilities-with-severity-high-or-higher.md)
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity Medium](../purple/treatment-of-vulnerabilities-with-severity-medium.md)
 
 ## Further Readings
 

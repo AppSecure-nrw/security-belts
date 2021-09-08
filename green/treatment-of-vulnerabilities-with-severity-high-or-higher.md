@@ -16,14 +16,7 @@
 
 ## Related Activities
 
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [False Positive Treatment](../yellow/false-positive-treatment.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Test Components Regarding Known Vulnerabilities](../yellow/test-components-regarding-known-vulnerabilities.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/02_security-belt-yellow.svg" width="25" />](#) [Unit Tests for Security Features](../yellow/unit-tests-for-security-features.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Test Client Side Components With Known Vulnerabilities](../orange/test-client-side-components-with-known-vulnerabilities.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/03_security-belt-orange.svg" width="25" />](#) [Nightly Test Libraries With Known Vulnerabilities](../orange/nightly-test-libraries-with-known-vulnerabilities.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Test Containers Images Regarding Known Vulnerabilities](../green/test-container-images-regarding-known-vulnerabilities.md)
-- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/04_security-belt-green.svg" width="25" />](#) [Static Analysis for All Self-Written Components](../green/static-analysis-for-all-self-written-components.md)
-
+- [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="25" />](#) [Treatment of Vulnerabilities With Severity Medium](../purple/treatment-of-vulnerabilities-with-severity-medium.md)
 ## Further Readings
 
 - Literature: [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/)

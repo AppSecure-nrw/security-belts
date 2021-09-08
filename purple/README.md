@@ -1,13 +1,12 @@
 # [<img src="https://raw.githubusercontent.com/AppSecure-nrw/security-belts/assets/belt-img/06_security-belt-purple.svg" width="40" />](#) Purple Belt
 
-TODO summary
+TODO summary + order
 
+- [Treatment of Vulnerabilities With Severity Medium](treatment-of-vulnerabilities-with-severity-medium.md)
 - [Dynamic Scan With Different Roles](dynamic-scan-with-different-roles.md)
 - Targeted alerting
   - *requires* (Simple application metrics || Simple system metrics) && Visualized metrics
   - Do you analyze log data for security incidents periodically?
-- Treatment of Vulnerabilities With Severity Medium
-  - *requires* Treatment of Vulnerabilities With Severity High or Higher
 - Limit access to application secrets according to the least privilege principle
   - Don't be stupid
 - Inject production secrets into configuration files during deployment
