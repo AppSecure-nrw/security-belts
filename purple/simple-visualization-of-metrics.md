@@ -11,6 +11,8 @@
 
 - The large amount of information is easier for humans to understand.
 - You have a good feeling.
+- Easier to identify boundaries in which the application performs under normal conditions.
+  - This also supports implementing the activity [Targeted Alerting on Metric Violations](../purple/targeted-alerting-on-metric-violations.md).
 
 ## Assessment
 
