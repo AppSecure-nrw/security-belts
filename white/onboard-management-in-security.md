@@ -4,9 +4,10 @@ Software vulnerabilities might be exploited when shipped into production. This r
 
 ## Activities
 
+- Convince your Product Owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
 - Identify the persons who are judging "risks vs. revenue".
 - Raise the awareness of these persons (e.g., show how easy it is to exploit software).
-- Convince these persons that security is a continuous effort and that Security Belts are a cost efficient solution.
+- Convince these persons that security is a continuous effort and that Security Belts are a cost efficient solution (e.g., by showing the results of your assessment).
 
 ## Benefits
 
