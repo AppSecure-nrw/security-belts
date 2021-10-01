@@ -2,7 +2,7 @@
 
 ## Contributing Feedback
 
-In order to continuously improve the Security Belts model, we appreciate any kind of feedback, you can:
+In order to continuously improve the Security Belts model, we appreciate any kind of feedback. You can:
 - Fill out our surveys for the <a href="https://www.surveymonkey.de/r/MC6JQR2">methodology</a>, <a href="https://www.surveymonkey.de/r/MJWT29X">belts</a> and <a href="https://www.surveymonkey.de/r/MNWNVRB">belt activities</a>.
 - Create a [new issue](https://github.com/AppSecure-nrw/security-belts/issues/new/choose) expressing your concerns and suggestions.
 - Email us at security-belts@iem.fraunhofer.de.
