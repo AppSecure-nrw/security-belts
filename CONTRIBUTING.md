@@ -9,7 +9,7 @@ In order to continuously improve the Security Belts model, we appreciate any kin
 
 ## Contributing Content
 
-- Create a new Pull Request, based on the **master** branch.
+- Create a new Pull Request based on the **master** branch.
 - Please let us know if you plan to work on an open issue (e.g., make a comment in the issue). This way, we can avoid redundant work.
 - All your changes are under [CC-BY-SA-4.0 License](LICENSE).
 
