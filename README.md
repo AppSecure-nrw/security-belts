@@ -20,7 +20,7 @@ The maturity model *Security Belts* structures activities of the secure software
 
 For detailed information on the methodology behind the model, please take a look at our [Wiki](https://github.com/AppSecure-nrw/security-belts/wiki).
 
-In order to continuously improve the Security Belts model, we appreciate any kind of feedback. We have prepared surveys for the <a href="https://www.surveymonkey.de/r/MC6JQR2">methodology</a>, <a href="https://www.surveymonkey.de/r/MJWT29X">belts</a> and <a href="https://www.surveymonkey.de/r/MNWNVRB">belt activities</a>.
+In order to continuously improve the Security Belts model, we appreciate any kind of feedback or content contribution. If you are interested in contributing, please see the document [Contributing](CONTRIBUTING.md).
 
 ## Belts
 
