@@ -8,8 +8,9 @@ TODO summary + order
 - [Simple Visualization of Metrics](simple-visualization-of-metrics.md)
 - [Targeted Alerting on Metric Violations](targeted-alerting-on-metric-violations.md)
 - Limit access to application secrets according to the least privilege principle
+  - Inject production secrets during deployment
+  - (generate secrets, rolling update of secret) #newActivity?
   - Don't be stupid
-- Inject production secrets into configuration files during deployment
 - Infrastructure as Code
 - Test the definition of virtualized environments
   - static analysis on infrastructure code
