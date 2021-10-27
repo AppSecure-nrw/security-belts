@@ -4,14 +4,13 @@ Achieving the highest Security Belt might not make economic sense and may theref
 
 ## Activities
 
-- Estimate which Security Belt might be sufficient for the business criticality of your software. Your estimate might be just a first guess.
+- Estimate which Security Belt might be sufficient for the business criticality of your software. Your estimate might be just a first guess. To estimate, take a look at:
+  - which kind of data is processed by your software.
+  - how important your software is for your core business.
+  - your compliance and regulatory requirements.
+  - possible attack scenarios and how they could harm your software and data.
 - Commit on your estimation with your Product Owner.
 - Challenge your estimation after each achieved Security Belt. Since you should have a better understanding of security, your estimation should become more profound.
-
-To estimate, take a look at:
-- which kind of data is processed by your software.
-- how important your software is for your core business.
-- your compliance and regulatory requirements.
 
 ## Benefits
 
