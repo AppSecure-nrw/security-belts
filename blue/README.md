@@ -3,6 +3,7 @@
 The blue belt introduces activities to gain a deeper understanding of the behavior of your developed software under attack.
 You learn advanced methods and tools for identifying and exploiting vulnerabilities regarding design and implementation flaws.
 
+- [Risk Leadership](risk-leadership.md)
 - [Code Review](code-review.md)
 - [Conduction of Threat Modeling](conduction-of-threat-modeling.md)
 - [Get to Know Your Design Flaws](get-to-know-your-design-flaws.md)
