@@ -9,10 +9,10 @@ Achieving the highest Security Belt might not make economic sense and may theref
   - how important your software is for your core business.
   - possible attack scenarios and how they could harm your software and data.
   - your compliance and regulatory requirements.
-  - or, in case you have a central security department that requires you to adhere to the central risk management, consider one of the following:
-    - start an agile transformation.
-    - adhere to their risk judgement.
-    - leave the company.
+- or, in case you have a central security department that requires you to adhere to the central risk management, consider one of the following:
+  - start an agile transformation.
+  - adhere to their risk judgement.
+  - leave the company.
 - Commit on your estimation with your Product Owner.
 - Challenge your estimation after each achieved Security Belt. Since you should have a better understanding of security, your estimation should become more profound.
 
