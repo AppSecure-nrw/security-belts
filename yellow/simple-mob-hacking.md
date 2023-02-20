@@ -10,7 +10,7 @@ Guidelines for your simple mob hacking session:
 - All exploits happen via the user interface.
 - No need for security/hacking tools.
 - No need for deep technical or security knowledge.
-- Use an insecure training app, e.g., [DVWA](https://dvwa.co.uk/)
+- Use an insecure training app, e.g., [DVWA](https://github.com/digininja/DVWA)
 - Encourage active participation, e.g., use small groups.
 - Allow enough time for everyone to run at least one exploit.
 
