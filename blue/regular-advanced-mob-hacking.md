@@ -33,7 +33,7 @@ Guidelines for your advanced mob hacking session:
 
 ## Further Readings
 
-- Tool: [DVWA](https://dvwa.co.uk/)
+- Tool: [DVWA](https://github.com/digininja/DVWA)
 - Tool: [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/)
 - Tool: [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - Tool: [Awesome Vulnerable](https://github.com/kaiiyer/awesome-vulnerable) (list of tools)
