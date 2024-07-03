@@ -46,7 +46,7 @@ When implementing this principle:
 ## Further Readings
 
 - [Security design with principles](https://medium.com/ouspg/security-design-with-principles-a8c045765b93)
-- [MITRE - Cyber Resiliency Design Principles](https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
+- [MITRE - Cyber Resiliency Design Principles](https://www.mitre.org/sites/default/files/2021-11/pr-17-0103-Cyber-Resiliency-Design-Principles.pdf)
 - [Agile Modellgetriebene Entwicklung von Software Security & Privacy - page 14 (german)](https://se-rwth.de/phdtheses/Diss-Hermerschmidt-Agile-Modellgetriebene-Entwicklung-von-Software-Security-and-Privacy.pdf)
 
 <p align="right"><a href="https://www.surveymonkey.de/r/MNWNVRB">Send Feedback</a></p>
