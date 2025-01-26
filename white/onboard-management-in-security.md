@@ -7,11 +7,13 @@ Software vulnerabilities might be exploited when shipped into production. This r
 - Convince your Product Owner to spend some time to roughly assess the current security of your product (e.g., collecting all security-related incidents and bugs).
 - Identify the persons who are judging "risks vs. revenue".
 - Raise the awareness of these persons (e.g., show how easy it is to exploit software).
+- Ask about their "risk appetite". It is a language then might be more familiar with, and gives you another view point to understanding what risk is aceptable and where to focus.
 - Convince these persons that security is a continuous effort and that Security Belts are a cost efficient solution (e.g., by showing the results of your assessment).
 
 ## Benefits
 
 - The Product Owner is aware that software can have security vulnerabilities.
+- Understanding the management's risk appetite, it is easier to translate your concerns to the mindeset of the management.
 - Resources are allocated to improve in security - to avoid, detect and fix security vulnerabilities.
 - Management can perform well informed decision when judging "risks vs. revenue".
 - The Product Owner has transparency on how secure the product is.
